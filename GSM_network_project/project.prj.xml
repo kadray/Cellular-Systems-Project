@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<CommonData Version="8.4.0">
+ <BuildingDatabase building_floorplan_database_path="&lt;INSTALL_PATH&gt;" wall_material_type_data_filename="&lt;INSTALL_PATH&gt;\DATA\MAT_CHAR.DAT" building_attribute_filename="" preprocess_building_data_for_wall_closures_connections="false" building_height_error_margin="0.0" use_building_das_design_files="false" building_das_database_path="" building_das_tx_template_index="0"/>
+ <BuildingDASDatabase building_das_floors_txs_active_mode="1" building_das_num_floors_above_below="0" building_das_show_walls_based_on_tx_setting="false" building_das_rf_equipment_path="" building_das_display_floor_entity="false" building_das_keep_floor_study_files="false" building_das_vertex_inclusion="1.5"/>
+ <TowerDatabase tower_floorplan_database_path="" street_dir="" bounding_file=""/>
+ <DemographicDatabase>
+  <DatabaseEntry type="U.S. 2010 Census" path="&lt;INSTALL_PATH&gt;\SAMPLE DATA\SAMPLE_DEMOGRAPHIC_DATA" active="true"/>
+  <DatabaseEntry type="-None-" path="" active="false"/>
+  <DatabaseEntry type="-None-" path="" active="false"/>
+  <DatabaseEntry type="-None-" path="" active="false"/>
+  <DatabaseEntry type="-None-" path="" active="false"/>
+ </DemographicDatabase>
+ <LandUseClutterDatabase attenuation_file="&lt;INSTALL_PATH&gt;\DATA\GCATTN_USGS2011.DAT" bna_clutter_region="" bna_new_clutter_datafile="" grid_spacing="0.0">
+  <GroundcoverPath type="EDX .GCV format" path="&lt;INSTALL_PATH&gt;\SAMPLE DATA\SAMPLE_CLUTTER_DATA" active="true"/>
+  <GroundcoverPath type="-None-" path="" active="false"/>
+  <GroundcoverPath type="-None-" path="" active="false"/>
+  <GroundcoverPath type="-None-" path="" active="false"/>
+  <GroundcoverPath type="-None-" path="" active="false"/>
+ </LandUseClutterDatabase>
+ <TrafficDatabase type="EDX point data" source="uniform traffic" path="&lt;INSTALL_PATH&gt;\SAMPLE DATA\SAMPLE_TRAFFIC_DATA" region_bna_file="" service_bna_file="" trf_datafile="" select_density="1000.0" use_data_for_select="false" source_density="1000.0" use_data_for_source="false" grid_step_size="1.0"/>
+ <TerrainDatabase terrain_height_error_margin="0.0">
+  <TerrainDataSource type="EDX universal .201 format" path="&lt;INSTALL_PATH&gt;\SAMPLE DATA\SAMPLE_TERRAIN_DATA" active="true"/>
+  <TerrainDataSource type="EDX universal .201 format" path="&lt;INSTALL_PATH&gt;\DATA" active="false"/>
+  <TerrainDataSource type="EDX universal .201 format" path="&lt;INSTALL_PATH&gt;\DATA" active="false"/>
+  <TerrainDataSource type="EDX universal .201 format" path="&lt;INSTALL_PATH&gt;\DATA" active="false"/>
+  <TerrainDataSource type="EDX universal .201 format" path="&lt;INSTALL_PATH&gt;\DATA" active="false"/>
+ </TerrainDatabase>
+ <ColorMapVector size="10">
+  <ColorMap size="10">
+   <ColorMapEntry val="99.0" r="255" g="255" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="90.0" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="80.0" r="0" g="255" b="255" symbol="SOLID"/>
+   <ColorMapEntry val="70.0" r="0" g="128" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="60.0" r="128" g="128" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="50.0" r="0" g="0" b="255" symbol="SOLID"/>
+   <ColorMapEntry val="40.0" r="0" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="30.0" r="255" g="128" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="20.0" r="255" g="0" b="255" symbol="SOLID"/>
+   <ColorMapEntry val="10.0" r="64" g="0" b="64" symbol="SOLID"/>
+  </ColorMap>
+  <ColorMap size="5">
+   <ColorMapEntry val="-60.0" r="255" g="255" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="-70.0" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="-80.0" r="0" g="255" b="255" symbol="SOLID"/>
+   <ColorMapEntry val="-90.0" r="0" g="128" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="-90.0" r="128" g="128" b="128" symbol="SOLID"/>
+  </ColorMap>
+  <ColorMap size="0"/>
+  <ColorMap size="10">
+   <ColorMapEntry val="100.0" r="255" g="255" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="90.0" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="80.0" r="0" g="255" b="255" symbol="SOLID"/>
+   <ColorMapEntry val="70.0" r="0" g="128" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="60.0" r="128" g="128" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="50.0" r="0" g="0" b="255" symbol="SOLID"/>
+   <ColorMapEntry val="40.0" r="0" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="30.0" r="255" g="128" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="20.0" r="255" g="0" b="255" symbol="SOLID"/>
+   <ColorMapEntry val="10.0" r="64" g="0" b="64" symbol="SOLID"/>
+  </ColorMap>
+  <ColorMap size="10">
+   <ColorMapEntry val="99.0" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="90.0" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="80.0" r="0" g="255" b="255" symbol="SOLID"/>
+   <ColorMapEntry val="70.0" r="0" g="128" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="60.0" r="128" g="128" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="50.0" r="0" g="0" b="255" symbol="SOLID"/>
+   <ColorMapEntry val="40.0" r="0" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="30.0" r="255" g="128" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="20.0" r="255" g="0" b="255" symbol="SOLID"/>
+   <ColorMapEntry val="20.0" r="64" g="0" b="64" symbol="NO_SYMBOL"/>
+  </ColorMap>
+  <ColorMap size="10">
+   <ColorMapEntry val="100.0" r="255" g="255" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="90.0" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="80.0" r="0" g="255" b="255" symbol="SOLID"/>
+   <ColorMapEntry val="70.0" r="0" g="128" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="60.0" r="128" g="128" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="50.0" r="0" g="0" b="255" symbol="SOLID"/>
+   <ColorMapEntry val="40.0" r="0" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="30.0" r="255" g="128" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="20.0" r="255" g="0" b="255" symbol="SOLID"/>
+   <ColorMapEntry val="10.0" r="64" g="0" b="64" symbol="SOLID"/>
+  </ColorMap>
+  <ColorMap size="10">
+   <ColorMapEntry val="99.0" r="255" g="255" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="90.0" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="80.0" r="0" g="255" b="255" symbol="SOLID"/>
+   <ColorMapEntry val="70.0" r="0" g="128" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="60.0" r="128" g="128" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="50.0" r="0" g="0" b="255" symbol="SOLID"/>
+   <ColorMapEntry val="40.0" r="128" g="0" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="30.0" r="255" g="128" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="20.0" r="255" g="0" b="255" symbol="SOLID"/>
+   <ColorMapEntry val="20.0" r="64" g="128" b="128" symbol="SOLID"/>
+  </ColorMap>
+  <ColorMap size="10">
+   <ColorMapEntry val="0.9" r="255" g="128" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.8" r="255" g="183" b="111" symbol="SOLID"/>
+   <ColorMapEntry val="0.7000000000000001" r="255" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.6" r="128" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.5" r="0" g="213" b="53" symbol="SOLID"/>
+   <ColorMapEntry val="0.4" r="3" g="156" b="106" symbol="SOLID"/>
+   <ColorMapEntry val="0.3" r="0" g="255" b="255" symbol="SOLID"/>
+   <ColorMapEntry val="0.2" r="43" g="43" b="255" symbol="SOLID"/>
+   <ColorMapEntry val="0.1" r="181" g="106" b="255" symbol="SOLID"/>
+   <ColorMapEntry val="0.05" r="170" g="0" b="170" symbol="SOLID"/>
+  </ColorMap>
+  <ColorMap size="0"/>
+  <ColorMap size="0"/>
+ </ColorMapVector>
+ <ATAInfoVector size="1">
+  <ATA owner="" owner_type="0" id="0" ata_type="-1" use_connected_CPEs="false" use_CPE_group="false" use_victim_CPEs="false" use_connected_mobiles="false" use_victim_sectors="false" use_sector_group="false" use_external="false" auto_calculate_targets="true" cpe_group="Master Group" sector_group="Master Group" cpe_threshold="0.0" sector_threshold="0.0">
+   <metric_defaults default_metric="0.0" default_metric_type="Not Applicable"/>
+   <metric_defaults default_metric="0.0" default_metric_type="Not Applicable"/>
+   <metric_defaults default_metric="0.0" default_metric_type="Not Applicable"/>
+   <metric_defaults default_metric="0.0" default_metric_type="Not Applicable"/>
+   <metric_defaults default_metric="0.0" default_metric_type="Not Applicable"/>
+   <metric_defaults default_metric="0.0" default_metric_type="Not Applicable"/>
+   <Targets target_count="0"/>
+  </ATA>
+ </ATAInfoVector>
+ <ATAPointVector size="0"/>
+ <ReceiveUnits last_selected_index="1" size="5">
+  <ReceiveUnit co_polarized_antenna_pattern_file="" receive_filter_file_code="0" antenna_height="1.5" max_remote_tx_ERP="0.0" min_remote_tx_ERP="-28.0" co_polarized_gain="-2.15" cross_polarized_rejection="15.0" co_polarized_antenna_type="Isotropic" cross_polarized_antenna_type="Isotropic" mobile_rx_CIN_ratio="16.0" system_noise_figure="6.0" eff_noise_bandwidth="0.05" simulcast_capture_ratio_range="10.0" use_receiver_type_db="false" use_receive_filter="false" receiver_equip_type="Cellular/PCS CMDA" height_reference_type="Terrain Only" adjacent_channel_rejection="25.0" name="ReceiveUnit1" tx_apc_headroom="3.0" rake_rx_gain="0.0" rf_min="-25.0" rf_max="3.0" antenna_cable_losses="0.0" antenna_obstacle_losses="3.0"/>
+  <ReceiveUnit co_polarized_antenna_pattern_file="" receive_filter_file_code="0" antenna_height="2.0" max_remote_tx_ERP="0.0" min_remote_tx_ERP="-40.0" co_polarized_gain="-2.15" cross_polarized_rejection="15.0" co_polarized_antenna_type="Isotropic" cross_polarized_antenna_type="Isotropic" mobile_rx_CIN_ratio="16.0" system_noise_figure="6.0" eff_noise_bandwidth="0.05" simulcast_capture_ratio_range="10.0" use_receiver_type_db="false" use_receive_filter="false" receiver_equip_type="" height_reference_type="Terrain Only" adjacent_channel_rejection="25.0" name="ReceiveUnit2" tx_apc_headroom="3.0" rake_rx_gain="0.0" rf_min="-40.0" rf_max="0.0" antenna_cable_losses="0.0" antenna_obstacle_losses="0.0"/>
+  <ReceiveUnit co_polarized_antenna_pattern_file="" receive_filter_file_code="0" antenna_height="2.0" max_remote_tx_ERP="0.0" min_remote_tx_ERP="-40.0" co_polarized_gain="-2.15" cross_polarized_rejection="15.0" co_polarized_antenna_type="Isotropic" cross_polarized_antenna_type="Isotropic" mobile_rx_CIN_ratio="16.0" system_noise_figure="6.0" eff_noise_bandwidth="0.05" simulcast_capture_ratio_range="10.0" use_receiver_type_db="false" use_receive_filter="false" receiver_equip_type="" height_reference_type="Terrain Only" adjacent_channel_rejection="25.0" name="ReceiveUnit3" tx_apc_headroom="3.0" rake_rx_gain="0.0" rf_min="-40.0" rf_max="0.0" antenna_cable_losses="0.0" antenna_obstacle_losses="0.0"/>
+  <ReceiveUnit co_polarized_antenna_pattern_file="" receive_filter_file_code="0" antenna_height="2.0" max_remote_tx_ERP="0.0" min_remote_tx_ERP="-40.0" co_polarized_gain="-2.15" cross_polarized_rejection="15.0" co_polarized_antenna_type="Isotropic" cross_polarized_antenna_type="Isotropic" mobile_rx_CIN_ratio="16.0" system_noise_figure="6.0" eff_noise_bandwidth="0.05" simulcast_capture_ratio_range="10.0" use_receiver_type_db="false" use_receive_filter="false" receiver_equip_type="" height_reference_type="Terrain Only" adjacent_channel_rejection="25.0" name="ReceiveUnit4" tx_apc_headroom="3.0" rake_rx_gain="0.0" rf_min="-40.0" rf_max="0.0" antenna_cable_losses="0.0" antenna_obstacle_losses="0.0"/>
+  <ReceiveUnit co_polarized_antenna_pattern_file="" receive_filter_file_code="0" antenna_height="2.0" max_remote_tx_ERP="0.0" min_remote_tx_ERP="-40.0" co_polarized_gain="-2.15" cross_polarized_rejection="15.0" co_polarized_antenna_type="Isotropic" cross_polarized_antenna_type="Isotropic" mobile_rx_CIN_ratio="16.0" system_noise_figure="6.0" eff_noise_bandwidth="0.05" simulcast_capture_ratio_range="10.0" use_receiver_type_db="false" use_receive_filter="false" receiver_equip_type="" height_reference_type="Terrain Only" adjacent_channel_rejection="25.0" name="ReceiveUnit5" tx_apc_headroom="3.0" rake_rx_gain="0.0" rf_min="-40.0" rf_max="0.0" antenna_cable_losses="0.0" antenna_obstacle_losses="0.0"/>
+ </ReceiveUnits>
+ <DemographicStudy attribute_to_plot="13">
+  <CountStudy analysis_source="area study selected for status bar" analysis_level_lower_bound="-90.0" analysis_level_upper_bound="0.0" polygon_filename="" filter_filename="" use_polygon_filter="false" detailed_filename=""/>
+ </DemographicStudy>
+ <TrafficStudy attribute_to_plot="milliErlangs/km²" blocking_probability="0.0">
+  <CountStudy analysis_source="area study selected for status bar" analysis_level_lower_bound="0.0" analysis_level_upper_bound="0.0" polygon_filename="" filter_filename="" use_polygon_filter="false" detailed_filename=""/>
+ </TrafficStudy>
+ <SiteToolTipOptionsInfo Enabled="true"/>
+ <LinkToolTipOptionsInfo Enabled="true"/>
+ <CPEToolTipOptionsInfo Enabled="true"/>
+ <ServerSelectionCriteria selected_criteria_ID="0"/>
+ <RayLayerOptions pen_width="0.0">
+  <ray_pen_description>
+   <PenDesc width="0.0" style="solid">
+    <Color r="191" g="0" b="0"/>
+   </PenDesc>
+  </ray_pen_description>
+  <rays_color_map>
+   <ColorMapIndex index="0"/>
+  </rays_color_map>
+ </RayLayerOptions>
+ <LinkDetailsOptions direction="Both">
+  <DataGridOptions filter_name="All">
+   <RowColors num_colors="0"/>
+  </DataGridOptions>
+ </LinkDetailsOptions>
+ <PROJECT_PANE_TREE size="9">
+  <TreeNode NodeType="RFSystems" NodeText="RF Systems" state="0"/>
+  <TreeNode NodeType="Site" NodeText="Transmitter/Base/Hub/Router Sites" state="4096"/>
+  <TreeNode NodeType="Link" NodeText="Link Systems" state="4096"/>
+  <TreeNode NodeType="Views" NodeText="Map Views" state="96"/>
+  <TreeNode NodeType="MapView" NodeText="initial view" state="96"/>
+  <TreeNode NodeType="MapViewLayer" NodeText="Map Layers" state="96"/>
+  <TreeNode NodeType="MapViewAreaStudy" NodeText="Area Studies" state="0"/>
+  <TreeNode NodeType="MapViewRteAreaStudy" NodeText="Route Studies" state="0"/>
+  <TreeNode NodeType="MapViewMptStudy" NodeText="Multipoint Studies" state="0"/>
+ </PROJECT_PANE_TREE>
+</CommonData>

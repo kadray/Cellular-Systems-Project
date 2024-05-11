@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LibFile Version="1.0.0">
+  <LibraryXML n="1">
+    <Item active="1" readOnly="0" group="Master group" path="&lt;PROJECT_PATH&gt;\PROJECT.TX.XML"/>
+  </LibraryXML>
+</LibFile>
