@@ -403,44 +403,7 @@
  <BestLOSBuildings ignore_building_edge_shadow="true" use_building_vector_database="false" percent_building_service_objective="99.0" required_fresnel_zone_clearance="1.0" maximum_of_hub_locations_to_be_found="10" cpe_type_index="0">
   <availiable_buildings no_of_avail="0"/>
  </BestLOSBuildings>
- <GraphicObjectList number="4">
-  <GraphicObject graphic_type="7">
-   <RectangleObject is_rounded="false">
-    <GraphicalObject Id="" IndexForLabel="1543912992" width="0.0">
-     <Color r="0" g="0" b="0"/>
-     <LatLongTypeList number="2">
-      <LatLongPair latitude="44.17996826157542" longitude="-123.4306431077343"/>
-      <LatLongPair latitude="43.72426036755557" longitude="-122.7993543080423"/>
-     </LatLongTypeList>
-    </GraphicalObject>
-   </RectangleObject>
-  </GraphicObject>
-  <GraphicObject graphic_type="14">
-   <ServiceAreaBoundaryObject Level_Type="2" GUID="660e294a-32b7-4324-9fa3-4e2a00b0223b" ParentGUID="">
-    <PolygonObject UseFillPattern="false">
-     <PolygonObjectFill>
-      <FillDesc fill_style="solid">
-       <Color r="0" g="0" b="0"/>
-      </FillDesc>
-     </PolygonObjectFill>
-     <PolylineObject>
-      <PenDesc width="0.0" style="solid">
-       <Color r="0" g="0" b="0"/>
-      </PenDesc>
-      <GraphicalObject Id="" IndexForLabel="1226842673" width="0.0">
-       <Color r="0" g="255" b="0"/>
-       <LatLongTypeList number="5">
-        <LatLongPair latitude="44.17700575670176" longitude="-123.4254351697986"/>
-        <LatLongPair latitude="43.72858241042062" longitude="-123.4249419133752"/>
-        <LatLongPair latitude="43.72799512886928" longitude="-122.8024318818328"/>
-        <LatLongPair latitude="44.17791193267871" longitude="-122.8013332820216"/>
-        <LatLongPair latitude="44.17701008907341" longitude="-123.4243984556993"/>
-       </LatLongTypeList>
-      </GraphicalObject>
-     </PolylineObject>
-    </PolygonObject>
-   </ServiceAreaBoundaryObject>
-  </GraphicObject>
+ <GraphicObjectList number="5">
   <GraphicObject graphic_type="14">
    <ServiceAreaBoundaryObject Level_Type="2" GUID="a0ef7fe2-d342-4744-966e-549409a4e5e8" ParentGUID="">
     <PolygonObject UseFillPattern="false">
@@ -488,6 +451,54 @@
         <LatLongPair latitude="43.72724404982181" longitude="-122.7983183248276"/>
         <LatLongPair latitude="44.18014183634494" longitude="-122.7951075229446"/>
         <LatLongPair latitude="44.18443565655007" longitude="-123.4327524306648"/>
+       </LatLongTypeList>
+      </GraphicalObject>
+     </PolylineObject>
+    </PolygonObject>
+   </ServiceAreaBoundaryObject>
+  </GraphicObject>
+  <GraphicObject graphic_type="7">
+   <RectangleObject is_rounded="false">
+    <GraphicalObject Id="" IndexForLabel="-1131064584" width="0.0">
+     <Color r="0" g="0" b="0"/>
+     <LatLongTypeList number="2">
+      <LatLongPair latitude="44.17996826157542" longitude="-123.4306431077343"/>
+      <LatLongPair latitude="43.72426036755557" longitude="-122.7993543080423"/>
+     </LatLongTypeList>
+    </GraphicalObject>
+   </RectangleObject>
+  </GraphicObject>
+  <GraphicObject graphic_type="7">
+   <RectangleObject is_rounded="false">
+    <GraphicalObject Id="" IndexForLabel="7274610" width="0.0">
+     <Color r="0" g="0" b="0"/>
+     <LatLongTypeList number="2">
+      <LatLongPair latitude="44.77097175666016" longitude="-123.2138604072337"/>
+      <LatLongPair latitude="44.30094431861362" longitude="-122.5576256753888"/>
+     </LatLongTypeList>
+    </GraphicalObject>
+   </RectangleObject>
+  </GraphicObject>
+  <GraphicObject graphic_type="14">
+   <ServiceAreaBoundaryObject Level_Type="2" GUID="660e294a-32b7-4324-9fa3-4e2a00b0223b" ParentGUID="">
+    <PolygonObject UseFillPattern="false">
+     <PolygonObjectFill>
+      <FillDesc fill_style="solid">
+       <Color r="0" g="0" b="0"/>
+      </FillDesc>
+     </PolygonObjectFill>
+     <PolylineObject>
+      <PenDesc width="0.0" style="solid">
+       <Color r="0" g="0" b="0"/>
+      </PenDesc>
+      <GraphicalObject Id="" IndexForLabel="1226842673" width="0.0">
+       <Color r="0" g="255" b="0"/>
+       <LatLongTypeList number="5">
+        <LatLongPair latitude="44.17700575670176" longitude="-123.4254351697986"/>
+        <LatLongPair latitude="43.72858241042062" longitude="-123.4249419133752"/>
+        <LatLongPair latitude="43.72799512886928" longitude="-122.8024318818328"/>
+        <LatLongPair latitude="44.17791193267871" longitude="-122.8013332820216"/>
+        <LatLongPair latitude="44.17701008907341" longitude="-123.4243984556993"/>
        </LatLongTypeList>
       </GraphicalObject>
      </PolylineObject>
@@ -2513,10 +2524,16 @@
  </MultipointStudyLayout>
  <NeighborListGeneration max_neighbors="4" include_2nd_servers="true" include_3rd_servers="true" exclude_co_channel_neighbors="true" group_identifier="master group" server_selection="PowerReceived" copy_predicted_to_actual="false" remote_unit_ID="0"/>
  <TxGroups size="1">
-  <TxGroup name="Master group" guid="a07b661e-f7c1-4c14-ae37-116aeebd111e" description="All sites and sectors" receiver_locked="false" number="3">
+  <TxGroup name="Master group" guid="a07b661e-f7c1-4c14-ae37-116aeebd111e" description="All sites and sectors" receiver_locked="false" number="9">
    <TX_ID id="ABAA0001" active="true"/>
    <TX_ID id="ABAA0002" active="true"/>
    <TX_ID id="ABAA0003" active="true"/>
+   <TX_ID id="ABAB0001" active="true"/>
+   <TX_ID id="ABAB0002" active="true"/>
+   <TX_ID id="ABAB0003" active="true"/>
+   <TX_ID id="ABAC0001" active="true"/>
+   <TX_ID id="ABAC0002" active="true"/>
+   <TX_ID id="ABAC0003" active="true"/>
   </TxGroup>
  </TxGroups>
  <LinkGroups size="1">
