@@ -45,16 +45,7 @@
    <ColorMapEntry val="-90.0" r="0" g="128" b="0" symbol="SOLID"/>
    <ColorMapEntry val="-90.0" r="128" g="128" b="128" symbol="SOLID"/>
   </ColorMap>
-  <ColorMap size="8">
-   <ColorMapEntry val="1.297" r="255" g="0" b="0" symbol="SOLID"/>
-   <ColorMapEntry val="1.089" r="251" g="103" b="32" symbol="SOLID"/>
-   <ColorMapEntry val="0.881" r="255" g="128" b="64" symbol="SOLID"/>
-   <ColorMapEntry val="0.673" r="255" g="255" b="0" symbol="SOLID"/>
-   <ColorMapEntry val="0.465" r="255" g="255" b="128" symbol="SOLID"/>
-   <ColorMapEntry val="0.257" r="128" g="255" b="128" symbol="SOLID"/>
-   <ColorMapEntry val="0.049" r="18" g="95" b="41" symbol="SOLID"/>
-   <ColorMapEntry val="0.049" r="61" g="212" b="101" symbol="SOLID"/>
-  </ColorMap>
+  <ColorMap size="0"/>
   <ColorMap size="10">
    <ColorMapEntry val="100.0" r="255" g="255" b="0" symbol="SOLID"/>
    <ColorMapEntry val="90.0" r="255" g="0" b="0" symbol="SOLID"/>
@@ -67,18 +58,7 @@
    <ColorMapEntry val="20.0" r="255" g="0" b="255" symbol="SOLID"/>
    <ColorMapEntry val="10.0" r="64" g="0" b="64" symbol="SOLID"/>
   </ColorMap>
-  <ColorMap size="10">
-   <ColorMapEntry val="99.0" r="255" g="0" b="0" symbol="SOLID"/>
-   <ColorMapEntry val="90.0" r="255" g="0" b="0" symbol="SOLID"/>
-   <ColorMapEntry val="80.0" r="0" g="255" b="255" symbol="SOLID"/>
-   <ColorMapEntry val="70.0" r="0" g="128" b="0" symbol="SOLID"/>
-   <ColorMapEntry val="60.0" r="128" g="128" b="128" symbol="SOLID"/>
-   <ColorMapEntry val="50.0" r="0" g="0" b="255" symbol="SOLID"/>
-   <ColorMapEntry val="40.0" r="0" g="0" b="0" symbol="SOLID"/>
-   <ColorMapEntry val="30.0" r="255" g="128" b="0" symbol="SOLID"/>
-   <ColorMapEntry val="20.0" r="255" g="0" b="255" symbol="SOLID"/>
-   <ColorMapEntry val="20.0" r="64" g="0" b="64" symbol="NO_SYMBOL"/>
-  </ColorMap>
+  <ColorMap size="0"/>
   <ColorMap size="10">
    <ColorMapEntry val="100.0" r="255" g="255" b="0" symbol="SOLID"/>
    <ColorMapEntry val="90.0" r="255" g="0" b="0" symbol="SOLID"/>
@@ -118,22 +98,33 @@
   <ColorMap size="0"/>
   <ColorMap size="0"/>
   <ColorMap size="0"/>
-  <ColorMap size="0"/>
-  <ColorMap size="0"/>
-  <ColorMap size="0"/>
-  <ColorMap size="0"/>
-  <ColorMap size="0"/>
-  <ColorMap size="0"/>
-  <ColorMap size="0"/>
-  <ColorMap size="7">
-   <ColorMapEntry val="1.297" r="255" g="0" b="0" symbol="SOLID"/>
-   <ColorMapEntry val="1.089" r="237" g="86" b="11" symbol="SOLID"/>
-   <ColorMapEntry val="0.881" r="220" g="153" b="21" symbol="SOLID"/>
-   <ColorMapEntry val="0.673" r="204" g="202" b="31" symbol="SOLID"/>
-   <ColorMapEntry val="0.465" r="140" g="188" b="40" symbol="SOLID"/>
-   <ColorMapEntry val="0.257" r="92" g="173" b="48" symbol="SOLID"/>
-   <ColorMapEntry val="0.049" r="58" g="158" b="56" symbol="SOLID"/>
+  <ColorMap size="10">
+   <ColorMapEntry val="99.0" r="255" g="0" b="255" symbol="SOLID"/>
+   <ColorMapEntry val="90.0" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="80.0" r="0" g="255" b="255" symbol="SOLID"/>
+   <ColorMapEntry val="70.0" r="0" g="128" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="60.0" r="128" g="128" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="50.0" r="0" g="0" b="255" symbol="SOLID"/>
+   <ColorMapEntry val="40.0" r="0" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="30.0" r="255" g="128" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="20.0" r="255" g="0" b="255" symbol="SOLID"/>
+   <ColorMapEntry val="20.0" r="64" g="0" b="64" symbol="NO_SYMBOL"/>
   </ColorMap>
+  <ColorMap size="7">
+   <ColorMapEntry val="0.9" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.7000000000000001" r="251" g="103" b="32" symbol="SOLID"/>
+   <ColorMapEntry val="0.6" r="255" g="128" b="64" symbol="SOLID"/>
+   <ColorMapEntry val="0.4" r="255" g="255" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.3" r="192" g="204" b="45" symbol="SOLID"/>
+   <ColorMapEntry val="0.1" r="128" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.05" r="18" g="95" b="41" symbol="SOLID"/>
+  </ColorMap>
+  <ColorMap size="0"/>
+  <ColorMap size="0"/>
+  <ColorMap size="0"/>
+  <ColorMap size="0"/>
+  <ColorMap size="0"/>
+  <ColorMap size="0"/>
  </ColorMapVector>
  <ATAInfoVector size="1">
   <ATA owner="" owner_type="0" id="0" ata_type="-1" use_connected_CPEs="false" use_CPE_group="false" use_victim_CPEs="false" use_connected_mobiles="false" use_victim_sectors="false" use_sector_group="false" use_external="false" auto_calculate_targets="true" cpe_group="Master Group" sector_group="Master Group" cpe_threshold="0.0" sector_threshold="0.0">
@@ -148,7 +139,7 @@
  </ATAInfoVector>
  <ATAPointVector size="0"/>
  <ReceiveUnits last_selected_index="1" size="5">
-  <ReceiveUnit co_polarized_antenna_pattern_file="" receive_filter_file_code="0" antenna_height="1.5" max_remote_tx_ERP="0.0" min_remote_tx_ERP="-28.0" co_polarized_gain="-2.15" cross_polarized_rejection="15.0" co_polarized_antenna_type="Isotropic" cross_polarized_antenna_type="Isotropic" mobile_rx_CIN_ratio="16.0" system_noise_figure="6.0" eff_noise_bandwidth="0.05" simulcast_capture_ratio_range="10.0" use_receiver_type_db="false" use_receive_filter="false" receiver_equip_type="Cellular/PCS CMDA" height_reference_type="Terrain Only" adjacent_channel_rejection="25.0" name="ReceiveUnit1" tx_apc_headroom="3.0" rake_rx_gain="0.0" rf_min="-25.0" rf_max="3.0" antenna_cable_losses="0.0" antenna_obstacle_losses="3.0"/>
+  <ReceiveUnit co_polarized_antenna_pattern_file="" receive_filter_file_code="0" antenna_height="1.5" max_remote_tx_ERP="0.0" min_remote_tx_ERP="-28.0" co_polarized_gain="-2.15" cross_polarized_rejection="15.0" co_polarized_antenna_type="Isotropic" cross_polarized_antenna_type="Isotropic" mobile_rx_CIN_ratio="13.0" system_noise_figure="5.0" eff_noise_bandwidth="0.2" simulcast_capture_ratio_range="10.0" use_receiver_type_db="false" use_receive_filter="false" receiver_equip_type="Cellular/PCS CMDA" height_reference_type="Terrain Only" adjacent_channel_rejection="25.0" name="ReceiveUnit1" tx_apc_headroom="3.0" rake_rx_gain="0.0" rf_min="-25.0" rf_max="3.0" antenna_cable_losses="0.0" antenna_obstacle_losses="3.0"/>
   <ReceiveUnit co_polarized_antenna_pattern_file="" receive_filter_file_code="0" antenna_height="2.0" max_remote_tx_ERP="0.0" min_remote_tx_ERP="-40.0" co_polarized_gain="-2.15" cross_polarized_rejection="15.0" co_polarized_antenna_type="Isotropic" cross_polarized_antenna_type="Isotropic" mobile_rx_CIN_ratio="16.0" system_noise_figure="6.0" eff_noise_bandwidth="0.05" simulcast_capture_ratio_range="10.0" use_receiver_type_db="false" use_receive_filter="false" receiver_equip_type="" height_reference_type="Terrain Only" adjacent_channel_rejection="25.0" name="ReceiveUnit2" tx_apc_headroom="3.0" rake_rx_gain="0.0" rf_min="-40.0" rf_max="0.0" antenna_cable_losses="0.0" antenna_obstacle_losses="0.0"/>
   <ReceiveUnit co_polarized_antenna_pattern_file="" receive_filter_file_code="0" antenna_height="2.0" max_remote_tx_ERP="0.0" min_remote_tx_ERP="-40.0" co_polarized_gain="-2.15" cross_polarized_rejection="15.0" co_polarized_antenna_type="Isotropic" cross_polarized_antenna_type="Isotropic" mobile_rx_CIN_ratio="16.0" system_noise_figure="6.0" eff_noise_bandwidth="0.05" simulcast_capture_ratio_range="10.0" use_receiver_type_db="false" use_receive_filter="false" receiver_equip_type="" height_reference_type="Terrain Only" adjacent_channel_rejection="25.0" name="ReceiveUnit3" tx_apc_headroom="3.0" rake_rx_gain="0.0" rf_min="-40.0" rf_max="0.0" antenna_cable_losses="0.0" antenna_obstacle_losses="0.0"/>
   <ReceiveUnit co_polarized_antenna_pattern_file="" receive_filter_file_code="0" antenna_height="2.0" max_remote_tx_ERP="0.0" min_remote_tx_ERP="-40.0" co_polarized_gain="-2.15" cross_polarized_rejection="15.0" co_polarized_antenna_type="Isotropic" cross_polarized_antenna_type="Isotropic" mobile_rx_CIN_ratio="16.0" system_noise_figure="6.0" eff_noise_bandwidth="0.05" simulcast_capture_ratio_range="10.0" use_receiver_type_db="false" use_receive_filter="false" receiver_equip_type="" height_reference_type="Terrain Only" adjacent_channel_rejection="25.0" name="ReceiveUnit4" tx_apc_headroom="3.0" rake_rx_gain="0.0" rf_min="-40.0" rf_max="0.0" antenna_cable_losses="0.0" antenna_obstacle_losses="0.0"/>
@@ -180,7 +171,7 @@
   </DataGridOptions>
  </LinkDetailsOptions>
  <PROJECT_PANE_TREE size="9">
-  <TreeNode NodeType="RFSystems" NodeText="RF Systems" state="2"/>
+  <TreeNode NodeType="RFSystems" NodeText="RF Systems" state="0"/>
   <TreeNode NodeType="Site" NodeText="Transmitter/Base/Hub/Router Sites" state="4096"/>
   <TreeNode NodeType="Link" NodeText="Link Systems" state="4096"/>
   <TreeNode NodeType="Views" NodeText="Map Views" state="96"/>
