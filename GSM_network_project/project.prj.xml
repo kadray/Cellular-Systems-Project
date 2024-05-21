@@ -25,7 +25,7 @@
   <TerrainDataSource type="EDX universal .201 format" path="&lt;INSTALL_PATH&gt;\DATA" active="false"/>
   <TerrainDataSource type="EDX universal .201 format" path="&lt;INSTALL_PATH&gt;\DATA" active="false"/>
  </TerrainDatabase>
- <ColorMapVector size="19">
+ <ColorMapVector size="29">
   <ColorMap size="10">
    <ColorMapEntry val="99.0" r="255" g="255" b="0" symbol="SOLID"/>
    <ColorMapEntry val="90.0" r="255" g="0" b="0" symbol="SOLID"/>
@@ -45,7 +45,18 @@
    <ColorMapEntry val="-90.0" r="0" g="128" b="0" symbol="SOLID"/>
    <ColorMapEntry val="-90.0" r="128" g="128" b="128" symbol="SOLID"/>
   </ColorMap>
-  <ColorMap size="0"/>
+  <ColorMap size="10">
+   <ColorMapEntry val="1.297" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="1.1583" r="255" g="51" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="1.0197" r="255" g="102" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.881" r="255" g="153" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.7423" r="255" g="204" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.6037" r="255" g="255" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.465" r="155" g="207" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.3263" r="80" g="160" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.1877" r="28" g="112" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.049" r="0" g="64" b="0" symbol="SOLID"/>
+  </ColorMap>
   <ColorMap size="10">
    <ColorMapEntry val="100.0" r="255" g="255" b="0" symbol="SOLID"/>
    <ColorMapEntry val="90.0" r="255" g="0" b="0" symbol="SOLID"/>
@@ -58,7 +69,18 @@
    <ColorMapEntry val="20.0" r="255" g="0" b="255" symbol="SOLID"/>
    <ColorMapEntry val="10.0" r="64" g="0" b="64" symbol="SOLID"/>
   </ColorMap>
-  <ColorMap size="0"/>
+  <ColorMap size="10">
+   <ColorMapEntry val="1.0" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.9400000000000001" r="255" g="51" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.8200000000000001" r="255" g="102" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.7000000000000001" r="255" g="153" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.58" r="255" g="204" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.4" r="255" g="255" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.35" r="155" g="207" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.23" r="80" g="160" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.12" r="28" g="112" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.0" r="0" g="64" b="0" symbol="SOLID"/>
+  </ColorMap>
   <ColorMap size="10">
    <ColorMapEntry val="100.0" r="255" g="255" b="0" symbol="SOLID"/>
    <ColorMapEntry val="90.0" r="255" g="0" b="0" symbol="SOLID"/>
@@ -95,9 +117,42 @@
    <ColorMapEntry val="0.1" r="181" g="106" b="255" symbol="SOLID"/>
    <ColorMapEntry val="0.05" r="170" g="0" b="170" symbol="SOLID"/>
   </ColorMap>
-  <ColorMap size="0"/>
-  <ColorMap size="0"/>
-  <ColorMap size="0"/>
+  <ColorMap size="10">
+   <ColorMapEntry val="1.0" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.9400000000000001" r="255" g="71" b="26" symbol="SOLID"/>
+   <ColorMapEntry val="0.8200000000000001" r="255" g="133" b="51" symbol="SOLID"/>
+   <ColorMapEntry val="0.7000000000000001" r="255" g="184" b="77" symbol="SOLID"/>
+   <ColorMapEntry val="0.58" r="255" g="224" b="102" symbol="SOLID"/>
+   <ColorMapEntry val="0.4" r="255" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.35" r="155" g="207" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.23" r="80" g="160" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.12" r="0" g="64" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.0" r="0" g="64" b="0" symbol="SOLID"/>
+  </ColorMap>
+  <ColorMap size="10">
+   <ColorMapEntry val="1.0" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.9400000000000001" r="255" g="71" b="26" symbol="SOLID"/>
+   <ColorMapEntry val="0.8200000000000001" r="255" g="133" b="51" symbol="SOLID"/>
+   <ColorMapEntry val="0.7000000000000001" r="255" g="184" b="77" symbol="SOLID"/>
+   <ColorMapEntry val="0.58" r="255" g="224" b="102" symbol="SOLID"/>
+   <ColorMapEntry val="0.4" r="255" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.35" r="155" g="207" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.23" r="80" g="160" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.12" r="0" g="128" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.0" r="0" g="64" b="0" symbol="SOLID"/>
+  </ColorMap>
+  <ColorMap size="10">
+   <ColorMapEntry val="1.0" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.9400000000000001" r="255" g="71" b="26" symbol="SOLID"/>
+   <ColorMapEntry val="0.8200000000000001" r="255" g="133" b="51" symbol="SOLID"/>
+   <ColorMapEntry val="0.7000000000000001" r="255" g="184" b="77" symbol="SOLID"/>
+   <ColorMapEntry val="0.58" r="255" g="224" b="102" symbol="SOLID"/>
+   <ColorMapEntry val="0.4" r="255" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.3" r="155" g="207" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.2" r="80" g="160" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.1" r="0" g="128" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.06" r="0" g="64" b="0" symbol="SOLID"/>
+  </ColorMap>
   <ColorMap size="10">
    <ColorMapEntry val="99.0" r="255" g="0" b="255" symbol="SOLID"/>
    <ColorMapEntry val="90.0" r="255" g="0" b="0" symbol="SOLID"/>
@@ -119,12 +174,198 @@
    <ColorMapEntry val="0.1" r="128" g="255" b="128" symbol="SOLID"/>
    <ColorMapEntry val="0.05" r="18" g="95" b="41" symbol="SOLID"/>
   </ColorMap>
-  <ColorMap size="0"/>
-  <ColorMap size="0"/>
-  <ColorMap size="0"/>
-  <ColorMap size="0"/>
-  <ColorMap size="0"/>
-  <ColorMap size="0"/>
+  <ColorMap size="10">
+   <ColorMapEntry val="1.0" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.9400000000000001" r="255" g="71" b="26" symbol="SOLID"/>
+   <ColorMapEntry val="0.8200000000000001" r="255" g="133" b="51" symbol="SOLID"/>
+   <ColorMapEntry val="0.7000000000000001" r="255" g="184" b="77" symbol="SOLID"/>
+   <ColorMapEntry val="0.58" r="255" g="224" b="102" symbol="SOLID"/>
+   <ColorMapEntry val="0.38" r="255" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.27" r="155" g="207" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.2" r="80" g="160" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.1" r="0" g="128" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.06" r="0" g="64" b="0" symbol="SOLID"/>
+  </ColorMap>
+  <ColorMap size="10">
+   <ColorMapEntry val="1.0" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.9500000000000001" r="255" g="71" b="26" symbol="SOLID"/>
+   <ColorMapEntry val="0.9" r="255" g="133" b="51" symbol="SOLID"/>
+   <ColorMapEntry val="0.75" r="255" g="184" b="77" symbol="SOLID"/>
+   <ColorMapEntry val="0.58" r="255" g="224" b="102" symbol="SOLID"/>
+   <ColorMapEntry val="0.38" r="255" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.27" r="128" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.2" r="80" g="160" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.1" r="0" g="128" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.06" r="0" g="64" b="0" symbol="SOLID"/>
+  </ColorMap>
+  <ColorMap size="10">
+   <ColorMapEntry val="1.0" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.9500000000000001" r="255" g="71" b="26" symbol="SOLID"/>
+   <ColorMapEntry val="0.9" r="255" g="133" b="51" symbol="SOLID"/>
+   <ColorMapEntry val="0.75" r="255" g="184" b="77" symbol="SOLID"/>
+   <ColorMapEntry val="0.58" r="255" g="224" b="102" symbol="SOLID"/>
+   <ColorMapEntry val="0.38" r="255" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.27" r="128" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.2" r="128" g="255" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.1" r="0" g="128" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.06" r="0" g="64" b="0" symbol="SOLID"/>
+  </ColorMap>
+  <ColorMap size="10">
+   <ColorMapEntry val="1.0" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.9500000000000001" r="255" g="71" b="26" symbol="SOLID"/>
+   <ColorMapEntry val="0.9" r="255" g="133" b="51" symbol="SOLID"/>
+   <ColorMapEntry val="0.75" r="255" g="184" b="77" symbol="SOLID"/>
+   <ColorMapEntry val="0.58" r="255" g="224" b="102" symbol="SOLID"/>
+   <ColorMapEntry val="0.38" r="255" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.27" r="128" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.2" r="0" g="128" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.1" r="66" g="114" b="54" symbol="SOLID"/>
+   <ColorMapEntry val="0.06" r="0" g="64" b="0" symbol="SOLID"/>
+  </ColorMap>
+  <ColorMap size="10">
+   <ColorMapEntry val="1.0" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.9500000000000001" r="255" g="71" b="26" symbol="SOLID"/>
+   <ColorMapEntry val="0.9" r="255" g="133" b="51" symbol="SOLID"/>
+   <ColorMapEntry val="0.75" r="255" g="184" b="77" symbol="SOLID"/>
+   <ColorMapEntry val="0.58" r="255" g="224" b="102" symbol="SOLID"/>
+   <ColorMapEntry val="0.38" r="255" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.27" r="128" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.2" r="0" g="128" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.1" r="45" g="151" b="58" symbol="SOLID"/>
+   <ColorMapEntry val="0.06" r="0" g="64" b="0" symbol="SOLID"/>
+  </ColorMap>
+  <ColorMap size="10">
+   <ColorMapEntry val="1.0" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.9500000000000001" r="255" g="71" b="26" symbol="SOLID"/>
+   <ColorMapEntry val="0.9" r="255" g="133" b="51" symbol="SOLID"/>
+   <ColorMapEntry val="0.75" r="255" g="184" b="77" symbol="SOLID"/>
+   <ColorMapEntry val="0.58" r="255" g="224" b="102" symbol="SOLID"/>
+   <ColorMapEntry val="0.38" r="255" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.27" r="128" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.2" r="0" g="128" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.1" r="45" g="151" b="58" symbol="SOLID"/>
+   <ColorMapEntry val="0.06" r="53" g="119" b="51" symbol="SOLID"/>
+  </ColorMap>
+  <ColorMap size="10">
+   <ColorMapEntry val="1.0" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.9500000000000001" r="255" g="71" b="26" symbol="SOLID"/>
+   <ColorMapEntry val="0.9" r="255" g="133" b="51" symbol="SOLID"/>
+   <ColorMapEntry val="0.75" r="255" g="184" b="77" symbol="SOLID"/>
+   <ColorMapEntry val="0.58" r="255" g="224" b="102" symbol="SOLID"/>
+   <ColorMapEntry val="0.38" r="255" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.27" r="128" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.2" r="0" g="128" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.1" r="45" g="151" b="58" symbol="SOLID"/>
+   <ColorMapEntry val="0.06" r="0" g="83" b="0" symbol="SOLID"/>
+  </ColorMap>
+  <ColorMap size="10">
+   <ColorMapEntry val="1.0" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.9500000000000001" r="255" g="71" b="26" symbol="SOLID"/>
+   <ColorMapEntry val="0.9" r="255" g="133" b="51" symbol="SOLID"/>
+   <ColorMapEntry val="0.75" r="255" g="184" b="77" symbol="SOLID"/>
+   <ColorMapEntry val="0.58" r="255" g="224" b="102" symbol="SOLID"/>
+   <ColorMapEntry val="0.38" r="255" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.27" r="128" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.2" r="27" g="163" b="12" symbol="SOLID"/>
+   <ColorMapEntry val="0.1" r="45" g="151" b="58" symbol="SOLID"/>
+   <ColorMapEntry val="0.06" r="0" g="83" b="0" symbol="SOLID"/>
+  </ColorMap>
+  <ColorMap size="10">
+   <ColorMapEntry val="1.0" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.9500000000000001" r="255" g="71" b="26" symbol="SOLID"/>
+   <ColorMapEntry val="0.9" r="255" g="133" b="51" symbol="SOLID"/>
+   <ColorMapEntry val="0.75" r="255" g="184" b="77" symbol="SOLID"/>
+   <ColorMapEntry val="0.58" r="255" g="224" b="102" symbol="SOLID"/>
+   <ColorMapEntry val="0.38" r="255" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.27" r="128" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.2" r="0" g="128" b="64" symbol="SOLID"/>
+   <ColorMapEntry val="0.1" r="45" g="151" b="58" symbol="SOLID"/>
+   <ColorMapEntry val="0.06" r="0" g="83" b="0" symbol="SOLID"/>
+  </ColorMap>
+  <ColorMap size="10">
+   <ColorMapEntry val="1.0" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.9500000000000001" r="255" g="71" b="26" symbol="SOLID"/>
+   <ColorMapEntry val="0.9" r="255" g="133" b="51" symbol="SOLID"/>
+   <ColorMapEntry val="0.75" r="255" g="184" b="77" symbol="SOLID"/>
+   <ColorMapEntry val="0.58" r="255" g="224" b="102" symbol="SOLID"/>
+   <ColorMapEntry val="0.38" r="255" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.27" r="128" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.2" r="0" g="128" b="64" symbol="SOLID"/>
+   <ColorMapEntry val="0.1" r="128" g="255" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.06" r="0" g="83" b="0" symbol="SOLID"/>
+  </ColorMap>
+  <ColorMap size="10">
+   <ColorMapEntry val="1.0" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.9500000000000001" r="255" g="71" b="26" symbol="SOLID"/>
+   <ColorMapEntry val="0.9" r="255" g="133" b="51" symbol="SOLID"/>
+   <ColorMapEntry val="0.75" r="255" g="184" b="77" symbol="SOLID"/>
+   <ColorMapEntry val="0.58" r="255" g="224" b="102" symbol="SOLID"/>
+   <ColorMapEntry val="0.38" r="255" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.27" r="128" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.2" r="0" g="128" b="64" symbol="SOLID"/>
+   <ColorMapEntry val="0.1" r="98" g="196" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.06" r="0" g="83" b="0" symbol="SOLID"/>
+  </ColorMap>
+  <ColorMap size="10">
+   <ColorMapEntry val="1.0" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.9500000000000001" r="255" g="71" b="26" symbol="SOLID"/>
+   <ColorMapEntry val="0.9" r="255" g="133" b="51" symbol="SOLID"/>
+   <ColorMapEntry val="0.75" r="255" g="184" b="77" symbol="SOLID"/>
+   <ColorMapEntry val="0.58" r="255" g="224" b="102" symbol="SOLID"/>
+   <ColorMapEntry val="0.38" r="255" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.27" r="0" g="128" b="64" symbol="SOLID"/>
+   <ColorMapEntry val="0.2" r="128" g="255" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.1" r="98" g="196" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.06" r="0" g="83" b="0" symbol="SOLID"/>
+  </ColorMap>
+  <ColorMap size="10">
+   <ColorMapEntry val="1.0" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.9500000000000001" r="255" g="71" b="26" symbol="SOLID"/>
+   <ColorMapEntry val="0.9" r="255" g="133" b="51" symbol="SOLID"/>
+   <ColorMapEntry val="0.75" r="255" g="184" b="77" symbol="SOLID"/>
+   <ColorMapEntry val="0.58" r="255" g="224" b="102" symbol="SOLID"/>
+   <ColorMapEntry val="0.38" r="255" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.27" r="88" g="176" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.2" r="0" g="128" b="64" symbol="SOLID"/>
+   <ColorMapEntry val="0.1" r="128" g="255" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.06" r="0" g="83" b="0" symbol="SOLID"/>
+  </ColorMap>
+  <ColorMap size="10">
+   <ColorMapEntry val="1.0" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.9500000000000001" r="255" g="71" b="26" symbol="SOLID"/>
+   <ColorMapEntry val="0.9" r="255" g="133" b="51" symbol="SOLID"/>
+   <ColorMapEntry val="0.75" r="255" g="184" b="77" symbol="SOLID"/>
+   <ColorMapEntry val="0.58" r="255" g="224" b="102" symbol="SOLID"/>
+   <ColorMapEntry val="0.38" r="255" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.27" r="88" g="176" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.2" r="0" g="128" b="64" symbol="SOLID"/>
+   <ColorMapEntry val="0.1" r="113" g="170" b="85" symbol="SOLID"/>
+   <ColorMapEntry val="0.06" r="0" g="83" b="0" symbol="SOLID"/>
+  </ColorMap>
+  <ColorMap size="10">
+   <ColorMapEntry val="1.0" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.9500000000000001" r="255" g="71" b="26" symbol="SOLID"/>
+   <ColorMapEntry val="0.9" r="255" g="133" b="51" symbol="SOLID"/>
+   <ColorMapEntry val="0.75" r="255" g="184" b="77" symbol="SOLID"/>
+   <ColorMapEntry val="0.58" r="255" g="224" b="102" symbol="SOLID"/>
+   <ColorMapEntry val="0.38" r="255" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.27" r="115" g="152" b="3" symbol="SOLID"/>
+   <ColorMapEntry val="0.2" r="0" g="128" b="64" symbol="SOLID"/>
+   <ColorMapEntry val="0.1" r="88" g="128" b="83" symbol="SOLID"/>
+   <ColorMapEntry val="0.06" r="0" g="83" b="0" symbol="SOLID"/>
+  </ColorMap>
+  <ColorMap size="10">
+   <ColorMapEntry val="1.0" r="255" g="0" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.9500000000000001" r="255" g="71" b="26" symbol="SOLID"/>
+   <ColorMapEntry val="0.9" r="255" g="133" b="51" symbol="SOLID"/>
+   <ColorMapEntry val="0.75" r="255" g="184" b="77" symbol="SOLID"/>
+   <ColorMapEntry val="0.58" r="255" g="224" b="102" symbol="SOLID"/>
+   <ColorMapEntry val="0.38" r="255" g="255" b="128" symbol="SOLID"/>
+   <ColorMapEntry val="0.27" r="146" g="233" b="141" symbol="SOLID"/>
+   <ColorMapEntry val="0.2" r="0" g="128" b="64" symbol="SOLID"/>
+   <ColorMapEntry val="0.1" r="124" g="173" b="103" symbol="SOLID"/>
+   <ColorMapEntry val="0.06" r="0" g="83" b="0" symbol="SOLID"/>
+  </ColorMap>
  </ColorMapVector>
  <ATAInfoVector size="1">
   <ATA owner="" owner_type="0" id="0" ata_type="-1" use_connected_CPEs="false" use_CPE_group="false" use_victim_CPEs="false" use_connected_mobiles="false" use_victim_sectors="false" use_sector_group="false" use_external="false" auto_calculate_targets="true" cpe_group="Master Group" sector_group="Master Group" cpe_threshold="0.0" sector_threshold="0.0">
