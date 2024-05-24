@@ -406,7 +406,7 @@
  <GraphicObjectList number="1">
   <GraphicObject graphic_type="7">
    <RectangleObject is_rounded="false">
-    <GraphicalObject Id="" IndexForLabel="1940491440" width="0.0">
+    <GraphicalObject Id="" IndexForLabel="1340890432" width="0.0">
      <Color r="0" g="0" b="0"/>
      <LatLongTypeList number="2">
       <LatLongPair latitude="44.77097175666016" longitude="-123.2138604072337"/>
@@ -2222,7 +2222,7 @@
  <LayoutDesign nominal_cell_radius="10.0" show_hexagon_grid="true" tx_template_index="0" system="0"/>
  <FrequencyPlanning CI_ratio_objective="18.0" percent_traffic_for_planning="100.0" use_intrf_file="0" channel_type_to_assign="2" percent_interf_acceptance="1.0" blocking_probability="0.0" average_call_duration="0.0" traffic_data_or_voice="predicted voice traffic on sectors" number_of_bcch_traffic_channels="1" uniform_traffic_calls_per_hour="0" demo_traffic_calls_per_hour="0" auto_plan_level="level 2" group_id="Master group" remote_unit_ID="0">
   <SimulatedAnneal cool_level="30" iterations="100" temp_mult="0.85" co_ch_weight="1.0" adj_ch_weight="0.01" weight_interf="1.0" weight_demand="1.0"/>
-  <AFPConstraints deny_co_channel_="true" deny_adj_channel="true" assign_fixed_number_channels="false" min_channel_seperation="4" fixed_number_of_channels="0"/>
+  <AFPConstraints deny_co_channel_="true" deny_adj_channel="true" assign_fixed_number_channels="true" min_channel_seperation="4" fixed_number_of_channels="4"/>
  </FrequencyPlanning>
  <PMP_AFP_Options server_threshold="-120.0" max_channels_per_sector="1" max_traffic_sector="100" max_most_likely_server_count="5" capacity_limit_type="0" set_mode="0" max_cpes_per_channel_sector="38" required_CIN="20.0" number_of_trial_solutions="200" max_channels_to_use="4" fresnel_threshold_to_use_x_polarization="0.6" use_adjacent_channel_rejection="false" adjacent_channel_db="15.0" use_xpol="false" random_seed="0" num_simultaneous_plans="100" max_signal_drop="20.0" overbooking_percent="20" assignment_option="1" assignment_CIN="10.0" swaps_per_cpe_assignment_step="50" cooling_steps="100" assign_channel_count_by_traffic="true" deny_co_channel_at_site="true" deny_adjacent_channel_at_site="false" use_existing_servers="false" randomise_swap_count="0" use_geometric_sort="false" balance_sector_load="true" consider_uplink="true" randomize_afp_count="true" variance_weight="1000.0" swapKeepFraction="79" WeakCPEPenaltyPercent="100" SectorOrderRandomPercent="20" cpeSwapParrallelism="3" cpeSwapCoolRate="1" useLegacyMethod="false"/>
  <RFEquipmentList base_hub_link_tx_equipment_list_file="&lt;INSTALL_PATH&gt;\LIBRARY DATA\EQUIPMENT\TX_DATA.DAT" base_hub_link_rx_equipment_list_file="&lt;INSTALL_PATH&gt;\LIBRARY DATA\EQUIPMENT\RX_DATA.DAT" remote_rx_equipment_list_file="&lt;INSTALL_PATH&gt;\LIBRARY DATA\EQUIPMENT\RX_MOB_DATA.DAT" tx_line_waveguide_list_file="&lt;INSTALL_PATH&gt;\LIBRARY DATA\EQUIPMENT\XLINE.DAT" antenna_pattern_library_file="&lt;INSTALL_PATH&gt;\LIBRARY DATA\EQUIPMENT\ANTENNA_TYPES.DAT"/>
@@ -2434,8 +2434,9 @@
  </MultipointStudyLayout>
  <NeighborListGeneration max_neighbors="4" include_2nd_servers="true" include_3rd_servers="true" exclude_co_channel_neighbors="true" group_identifier="master group" server_selection="PowerReceived" copy_predicted_to_actual="false" remote_unit_ID="0"/>
  <TxGroups size="1">
-  <TxGroup name="Master group" guid="a07b661e-f7c1-4c14-ae37-116aeebd111e" description="All sites and sectors" receiver_locked="false" number="11">
-   <TX_ID id="ABAA0002" active="true"/>
+  <TxGroup name="Master group" guid="a07b661e-f7c1-4c14-ae37-116aeebd111e" description="All sites and sectors" receiver_locked="false" number="13">
+   <TX_ID id="ABAA0002" active="false"/>
+   <TX_ID id="ABAB0001" active="true"/>
    <TX_ID id="ABAB0002" active="true"/>
    <TX_ID id="ABAC0001" active="true"/>
    <TX_ID id="ABAC0002" active="true"/>
@@ -2443,9 +2444,10 @@
    <TX_ID id="ABAD0001" active="true"/>
    <TX_ID id="ABAD0003" active="true"/>
    <TX_ID id="ABAE0001" active="true"/>
+   <TX_ID id="ABAE0002" active="true"/>
    <TX_ID id="ABAF0001" active="true"/>
    <TX_ID id="ABAF0002" active="true"/>
-   <TX_ID id="ABAG0001" active="true"/>
+   <TX_ID id="ABAI0001" active="true"/>
   </TxGroup>
  </TxGroups>
  <LinkGroups size="1">
