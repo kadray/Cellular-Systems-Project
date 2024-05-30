@@ -2,8 +2,8 @@
 <ViewFile Version="8.4.0">
  <Print paper_size="1" default_source="7" orientation="2" left_margin="500" right_margin="500" top_margin="750" bottom_margin="500" driver="winspool" device="hp deskjet 970c series" output="lpt1:"/>
  <Views size="1" last_active="0">
-  <View name="initial view" top="-23" left="-4" width="1562" height="989" show="true" maximized="true">
-   <ProjectedCoordinateSystem map_center_latitude="44.56699468105354" map_center_longitude="-122.9258542689564" data_entry_display_type="lat/long: deg/min/sec" projected_coordinate_system="Latitude/Longitude" projection="Transverse Mercator" datum="WGS 84"/>
+  <View name="initial view" top="-23" left="-4" width="1582" height="949" show="true" maximized="true">
+   <ProjectedCoordinateSystem map_center_latitude="44.49031462917024" map_center_longitude="-122.8552633038766" data_entry_display_type="lat/long: deg/min/sec" projected_coordinate_system="Latitude/Longitude" projection="Transverse Mercator" datum="WGS 84"/>
    <MapTitle title="EDX Wireless" subtitle="Smart Planning for Smart Networks" date="" exhibit="" use_cur_date="false"/>
    <RefGrid reference="grid lines" spacing="30&apos;" show_annotations="true">
     <PenDesc>
@@ -68,14 +68,14 @@
     <note text=""/>
     <note text=""/>
    </LegendOptions>
-   <MapPref measurement_system="Metric" origin="lower left corner" MapScale="1:201302" view_elevation_angle="90.0" view_azimuth="180.0" vert_scale_mult="1.0" base_height="0.0" light_elevation_angle="20.0" light_azimuth="315.0" use_directional_light="false" cursor_height="0.0" show_legend="false" power_display_units="dBW" antenna_gain_type="dBi" align_map_center_with_study_grid="false" display_as_2D="true">
+   <MapPref measurement_system="Metric" origin="lower left corner" MapScale="1:137061" view_elevation_angle="90.0" view_azimuth="180.0" vert_scale_mult="1.0" base_height="0.0" light_elevation_angle="20.0" light_azimuth="315.0" use_directional_light="false" cursor_height="0.0" show_legend="false" power_display_units="dBW" antenna_gain_type="dBi" align_map_center_with_study_grid="false" display_as_2D="true">
     <BorderPenDesc>
      <PenDesc width="0.7" style="solid">
       <Color r="0" g="0" b="0"/>
      </PenDesc>
     </BorderPenDesc>
    </MapPref>
-   <AreaStudies last_selected_index="1" ui_track_index="0" size="4">
+   <AreaStudies last_selected_index="4" ui_track_index="0" size="4">
     <AreaStudy group_identifier="Master group" second_group_identifier="Master group" group_id2="0" area_study_type="5" plot_type="flat grid" calc_method="radial line" noise_interference_type="noise and interference" calculate_study="false" use_uplink_independent_calc="false" notes="" receive_unit_id="0" study_display_type="composite grid" FCC_show_contour_labels="true" FCC_show_contour_txnames="true" FCC_contour_line_width="0.5" signal_contour_line_width="0.5" radial_line_width="0.5" effective_display_height="0.0" effective_display_height_use_mobile_height="false" grid_edge_display="1.0" grid_lines_signal_only="false" signal_level_display_threshold="-103.0" show_remote_on_legend_="true" control_mls_using_approx_range="false" control_using_sector_study_radius="false" include_interfering_remote="true" include_base_to_base_interference="false" maximum_number_interfering_sectors="6" link_reliability_name="Reliability Method 1" use_MIMO_adjustments="true" fresnel_zone_clearance="0.6" use_filter_polygon="false" filter_file_name="" use_channel_color_mls="false">
      <FCC_contour_label_font>
       <Font font_name="Arial" point_size="8" orientation_angle="0.0" style_flags_="0">
@@ -202,7 +202,7 @@
       </AnnotatedColorMap>
      </area_studies_gradient_color>
     </AreaStudy>
-    <AreaStudy group_identifier="Master group" second_group_identifier="Master group" group_id2="0" area_study_type="30" plot_type="flat grid" calc_method="radial line" noise_interference_type="noise and interference" calculate_study="true" use_uplink_independent_calc="false" notes="" receive_unit_id="0" study_display_type="composite grid" FCC_show_contour_labels="true" FCC_show_contour_txnames="true" FCC_contour_line_width="0.5" signal_contour_line_width="0.5" radial_line_width="0.5" effective_display_height="0.0" effective_display_height_use_mobile_height="false" grid_edge_display="1.0" grid_lines_signal_only="false" signal_level_display_threshold="-120.0" show_remote_on_legend_="true" control_mls_using_approx_range="false" control_using_sector_study_radius="false" include_interfering_remote="true" include_base_to_base_interference="false" maximum_number_interfering_sectors="6" link_reliability_name="Reliability Method 1" use_MIMO_adjustments="true" fresnel_zone_clearance="0.6" use_filter_polygon="false" filter_file_name="" use_channel_color_mls="false">
+    <AreaStudy group_identifier="Master group" second_group_identifier="Master group" group_id2="0" area_study_type="30" plot_type="flat grid" calc_method="radial line" noise_interference_type="noise and interference" calculate_study="true" use_uplink_independent_calc="false" notes="" receive_unit_id="0" study_display_type="composite grid" FCC_show_contour_labels="true" FCC_show_contour_txnames="true" FCC_contour_line_width="0.5" signal_contour_line_width="0.5" radial_line_width="0.5" effective_display_height="0.0" effective_display_height_use_mobile_height="false" grid_edge_display="1.0" grid_lines_signal_only="false" signal_level_display_threshold="-103.0" show_remote_on_legend_="true" control_mls_using_approx_range="false" control_using_sector_study_radius="false" include_interfering_remote="true" include_base_to_base_interference="false" maximum_number_interfering_sectors="6" link_reliability_name="Reliability Method 1" use_MIMO_adjustments="true" fresnel_zone_clearance="0.6" use_filter_polygon="false" filter_file_name="" use_channel_color_mls="false">
      <FCC_contour_label_font>
       <Font font_name="Arial" point_size="8" orientation_angle="0.0" style_flags_="0">
        <fore_color>
@@ -257,7 +257,7 @@
       </AnnotatedColorMap>
      </area_studies_gradient_color>
     </AreaStudy>
-    <AreaStudy group_identifier="Master group" second_group_identifier="Master group" group_id2="0" area_study_type="10" plot_type="flat grid" calc_method="radial line" noise_interference_type="noise and interference" calculate_study="false" use_uplink_independent_calc="false" notes="" receive_unit_id="0" study_display_type="composite grid" FCC_show_contour_labels="true" FCC_show_contour_txnames="true" FCC_contour_line_width="0.5" signal_contour_line_width="0.5" radial_line_width="0.5" effective_display_height="0.0" effective_display_height_use_mobile_height="false" grid_edge_display="1.0" grid_lines_signal_only="false" signal_level_display_threshold="-120.0" show_remote_on_legend_="true" control_mls_using_approx_range="false" control_using_sector_study_radius="false" include_interfering_remote="true" include_base_to_base_interference="false" maximum_number_interfering_sectors="6" link_reliability_name="Reliability Method 1" use_MIMO_adjustments="true" fresnel_zone_clearance="0.6" use_filter_polygon="false" filter_file_name="" use_channel_color_mls="false">
+    <AreaStudy group_identifier="Master group" second_group_identifier="Master group" group_id2="0" area_study_type="10" plot_type="flat grid" calc_method="radial line" noise_interference_type="noise and interference" calculate_study="false" use_uplink_independent_calc="false" notes="" receive_unit_id="0" study_display_type="composite grid" FCC_show_contour_labels="true" FCC_show_contour_txnames="true" FCC_contour_line_width="0.5" signal_contour_line_width="0.5" radial_line_width="0.5" effective_display_height="0.0" effective_display_height_use_mobile_height="false" grid_edge_display="1.0" grid_lines_signal_only="false" signal_level_display_threshold="-103.0" show_remote_on_legend_="true" control_mls_using_approx_range="false" control_using_sector_study_radius="false" include_interfering_remote="true" include_base_to_base_interference="false" maximum_number_interfering_sectors="6" link_reliability_name="Reliability Method 1" use_MIMO_adjustments="true" fresnel_zone_clearance="0.6" use_filter_polygon="false" filter_file_name="" use_channel_color_mls="false">
      <FCC_contour_label_font>
       <Font font_name="Arial" point_size="8" orientation_angle="0.0" style_flags_="0">
        <fore_color>
@@ -560,14 +560,14 @@
       <MaplayerInfo/>
      </MapLayer>
     </MapLayerTypeAndLayer>
+    <MapLayerTypeAndLayer layer_type="terrain maxima locations">
+     <MapLayer description="" show="true" show_on_legend="true" min_scale="1e-005" max_scale="2500.0" alpha="100">
+      <MaplayerInfo number_of_max="100" minimum_separation="2.0" calculate_min="false" use_filter="false" polygon_filter=""/>
+     </MapLayer>
+    </MapLayerTypeAndLayer>
     <MapLayerTypeAndLayer layer_type="traffic data">
      <MapLayer description="" show="true" show_on_legend="true" min_scale="1e-005" max_scale="2500.0" alpha="100">
       <MaplayerInfo/>
-     </MapLayer>
-    </MapLayerTypeAndLayer>
-    <MapLayerTypeAndLayer layer_type="terrain maxima locations">
-     <MapLayer description="" show="false" show_on_legend="true" min_scale="1e-005" max_scale="2500.0" alpha="100">
-      <MaplayerInfo number_of_max="100" minimum_separation="5.0" calculate_min="false" use_filter="false" polygon_filter=""/>
      </MapLayer>
     </MapLayerTypeAndLayer>
     <MapLayerTypeAndLayer layer_type="signal levels: 3">
@@ -576,7 +576,7 @@
      </MapLayer>
     </MapLayerTypeAndLayer>
     <MapLayerTypeAndLayer layer_type="signal levels: 1">
-     <MapLayer description="Received power at best base from remote" show="false" show_on_legend="false" min_scale="1e-005" max_scale="2500.0" alpha="100">
+     <MapLayer description="Received power at best base from remote" show="true" show_on_legend="false" min_scale="1e-005" max_scale="2500.0" alpha="100">
       <MaplayerInfo area_study_index="1"/>
      </MapLayer>
     </MapLayerTypeAndLayer>

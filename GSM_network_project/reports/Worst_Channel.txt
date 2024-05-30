@@ -43,67 +43,12 @@
          0.0 sq km in service area
   
   
- SECTOR ABAB0001
+ SECTOR ABAJ0001
   
          0.0 sq km in service area
   
   
- SECTOR ABAB0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0003
-  
-         0.0 sq km in service area
-  
-  
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
- SECTOR ABAF0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAI0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0003
+ SECTOR ABAJ0002
   
          0.0 sq km in service area
   
@@ -124,336 +69,6 @@
   
   
  SECTOR ABAD0003
-  
-         0.0 sq km in service area
-  
-  
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
- SECTOR ABAG0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAI0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0003
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0003
-  
-         0.0 sq km in service area
-  
-  
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
- SECTOR ABAG0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAI0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0003
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0003
-  
-         0.0 sq km in service area
-  
-  
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
- SECTOR ABAG0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAI0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0003
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0003
-  
-         0.0 sq km in service area
-  
-  
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
- SECTOR ABAG0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAI0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0003
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0003
-  
-         0.0 sq km in service area
-  
-  
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
- SECTOR ABAG0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0002
   
          0.0 sq km in service area
   
@@ -463,71 +78,6 @@
          0.0 sq km in service area
   
   
- SECTOR ABAF0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAI0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0003
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0003
-  
-         0.0 sq km in service area
-  
-  
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
  SECTOR ABAG0001
   
          0.0 sq km in service area
@@ -541,76 +91,6 @@
  SECTOR ABAH0002
   
          0.0 sq km in service area
-  
-  
- SECTOR ABAK0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAI0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0003
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0003
-  
-         0.0 sq km in service area
-  
-  
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
   
   
  SECTOR ABAA0002
@@ -618,24 +98,9 @@
          0.0 sq km in service area
   
   
- SECTOR ABAG0001
+ Worst Channel C/(I+N) for Multiple-Channel Systems
   
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAK0001
-  
-         0.0 sq km in service area
+ Downlink required service C/(I+N) threshold:   13.00000    
   
   
  SECTOR ABAF0001
@@ -674,51 +139,6 @@
   
   
  SECTOR ABAC0003
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0003
-  
-         0.0 sq km in service area
-  
-  
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
- SECTOR ABAA0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAG0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0002
   
          0.0 sq km in service area
   
@@ -733,7 +153,557 @@
          0.0 sq km in service area
   
   
+ SECTOR ABAB0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0003
+  
+         0.0 sq km in service area
+  
+  
  SECTOR ABAK0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAG0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAH0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAH0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAA0002
+  
+         0.0 sq km in service area
+  
+  
+ Worst Channel C/(I+N) for Multiple-Channel Systems
+  
+ Downlink required service C/(I+N) threshold:   13.00000    
+  
+  
+ SECTOR ABAF0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAF0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAI0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAJ0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAJ0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAK0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAG0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAH0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAH0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAA0002
+  
+         0.0 sq km in service area
+  
+  
+ Worst Channel C/(I+N) for Multiple-Channel Systems
+  
+ Downlink required service C/(I+N) threshold:   13.00000    
+  
+  
+ SECTOR ABAF0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAF0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAI0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAJ0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAJ0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAK0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAG0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAH0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAH0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAA0002
+  
+         0.0 sq km in service area
+  
+  
+ Worst Channel C/(I+N) for Multiple-Channel Systems
+  
+ Downlink required service C/(I+N) threshold:   13.00000    
+  
+  
+ SECTOR ABAF0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAI0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAJ0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAJ0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAK0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAG0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAH0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAH0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAA0002
+  
+         0.0 sq km in service area
+  
+  
+ Worst Channel C/(I+N) for Multiple-Channel Systems
+  
+ Downlink required service C/(I+N) threshold:   13.00000    
+  
+  
+ SECTOR ABAF0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAF0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAI0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAJ0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAJ0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAK0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAG0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAH0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAH0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAA0002
+  
+         0.0 sq km in service area
+  
+  
+ Worst Channel C/(I+N) for Multiple-Channel Systems
+  
+ Downlink required service C/(I+N) threshold:   13.00000    
+  
+  
+ SECTOR ABAF0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAF0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAI0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAJ0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAJ0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAK0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAG0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAH0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAH0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAA0002
+  
+         0.0 sq km in service area
+  
+  
+ Worst Channel C/(I+N) for Multiple-Channel Systems
+  
+ Downlink required service C/(I+N) threshold:   13.00000    
+  
+  
+ SECTOR ABAL0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAL0002
   
          0.0 sq km in service area
   
@@ -778,6 +748,16 @@
          0.0 sq km in service area
   
   
+ SECTOR ABAJ0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAJ0002
+  
+         0.0 sq km in service area
+  
+  
  SECTOR ABAB0001
   
          0.0 sq km in service area
@@ -798,12 +778,7 @@
          0.0 sq km in service area
   
   
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
- SECTOR ABAA0002
+ SECTOR ABAK0001
   
          0.0 sq km in service area
   
@@ -823,17 +798,17 @@
          0.0 sq km in service area
   
   
- SECTOR ABAJ0001
+ SECTOR ABAA0002
   
          0.0 sq km in service area
   
   
- SECTOR ABAJ0002
+ Worst Channel C/(I+N) for Multiple-Channel Systems
   
-         0.0 sq km in service area
+ Downlink required service C/(I+N) threshold:   13.00000    
   
   
- SECTOR ABAK0001
+ SECTOR ABAL0001
   
          0.0 sq km in service area
   
@@ -878,6 +853,16 @@
          0.0 sq km in service area
   
   
+ SECTOR ABAJ0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAJ0002
+  
+         0.0 sq km in service area
+  
+  
  SECTOR ABAB0001
   
          0.0 sq km in service area
@@ -898,12 +883,7 @@
          0.0 sq km in service area
   
   
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
- SECTOR ABAA0002
+ SECTOR ABAK0001
   
          0.0 sq km in service area
   
@@ -923,17 +903,17 @@
          0.0 sq km in service area
   
   
- SECTOR ABAJ0001
+ SECTOR ABAA0002
   
          0.0 sq km in service area
   
   
- SECTOR ABAJ0002
+ Worst Channel C/(I+N) for Multiple-Channel Systems
   
-         0.0 sq km in service area
+ Downlink required service C/(I+N) threshold:   13.00000    
   
   
- SECTOR ABAK0001
+ SECTOR ABAL0001
   
          0.0 sq km in service area
   
@@ -978,6 +958,16 @@
          0.0 sq km in service area
   
   
+ SECTOR ABAJ0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAJ0002
+  
+         0.0 sq km in service area
+  
+  
  SECTOR ABAB0001
   
          0.0 sq km in service area
@@ -998,12 +988,7 @@
          0.0 sq km in service area
   
   
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
- SECTOR ABAA0002
+ SECTOR ABAK0001
   
          0.0 sq km in service area
   
@@ -1023,12 +1008,17 @@
          0.0 sq km in service area
   
   
- SECTOR ABAJ0001
+ SECTOR ABAA0002
   
          0.0 sq km in service area
   
   
- SECTOR ABAK0001
+ Worst Channel C/(I+N) for Multiple-Channel Systems
+  
+ Downlink required service C/(I+N) threshold:   13.00000    
+  
+  
+ SECTOR ABAL0001
   
          0.0 sq km in service area
   
@@ -1073,6 +1063,16 @@
          0.0 sq km in service area
   
   
+ SECTOR ABAJ0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAJ0002
+  
+         0.0 sq km in service area
+  
+  
  SECTOR ABAB0001
   
          0.0 sq km in service area
@@ -1093,12 +1093,7 @@
          0.0 sq km in service area
   
   
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
- SECTOR ABAA0002
+ SECTOR ABAK0001
   
          0.0 sq km in service area
   
@@ -1118,7 +1113,27 @@
          0.0 sq km in service area
   
   
- SECTOR ABAK0001
+ SECTOR ABAA0002
+  
+         0.0 sq km in service area
+  
+  
+ Worst Channel C/(I+N) for Multiple-Channel Systems
+  
+ Downlink required service C/(I+N) threshold:   13.00000    
+  
+  
+ SECTOR ABAL0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAM0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAM0002
   
          0.0 sq km in service area
   
@@ -1163,97 +1178,12 @@
          0.0 sq km in service area
   
   
- SECTOR ABAB0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0003
-  
-         0.0 sq km in service area
-  
-  
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
- SECTOR ABAA0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAG0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0002
-  
-         0.0 sq km in service area
-  
-  
  SECTOR ABAJ0001
   
          0.0 sq km in service area
   
   
  SECTOR ABAJ0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAK0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAI0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0003
   
          0.0 sq km in service area
   
@@ -1278,12 +1208,7 @@
          0.0 sq km in service area
   
   
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
- SECTOR ABAA0002
+ SECTOR ABAK0001
   
          0.0 sq km in service area
   
@@ -1303,17 +1228,27 @@
          0.0 sq km in service area
   
   
- SECTOR ABAJ0001
+ SECTOR ABAA0002
   
          0.0 sq km in service area
   
   
- SECTOR ABAJ0002
+ Worst Channel C/(I+N) for Multiple-Channel Systems
+  
+ Downlink required service C/(I+N) threshold:   13.00000    
+  
+  
+ SECTOR ABAL0001
   
          0.0 sq km in service area
   
   
- SECTOR ABAK0001
+ SECTOR ABAM0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAM0002
   
          0.0 sq km in service area
   
@@ -1358,46 +1293,6 @@
          0.0 sq km in service area
   
   
- SECTOR ABAB0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0003
-  
-         0.0 sq km in service area
-  
-  
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
- SECTOR ABAA0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAG0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0001
-  
-         0.0 sq km in service area
-  
-  
  SECTOR ABAJ0001
   
          0.0 sq km in service area
@@ -1408,51 +1303,6 @@
          0.0 sq km in service area
   
   
- SECTOR ABAK0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAI0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0003
-  
-         0.0 sq km in service area
-  
-  
  SECTOR ABAB0001
   
          0.0 sq km in service area
@@ -1473,12 +1323,7 @@
          0.0 sq km in service area
   
   
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
- SECTOR ABAA0002
+ SECTOR ABAK0001
   
          0.0 sq km in service area
   
@@ -1498,1337 +1343,7 @@
          0.0 sq km in service area
   
   
- SECTOR ABAJ0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAJ0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAK0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAI0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0003
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0001
-  
-         0.0 sq km in service area
-  
-  
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
  SECTOR ABAA0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAG0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAJ0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAJ0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAK0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAI0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0003
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0003
-  
-         0.0 sq km in service area
-  
-  
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
- SECTOR ABAA0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAG0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAJ0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAJ0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAK0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAI0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0003
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0003
-  
-         0.0 sq km in service area
-  
-  
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
- SECTOR ABAA0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAG0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAJ0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAJ0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAK0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAI0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0003
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0003
-  
-         0.0 sq km in service area
-  
-  
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
- SECTOR ABAA0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAG0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAJ0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAJ0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAK0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAI0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0003
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0003
-  
-         0.0 sq km in service area
-  
-  
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
- SECTOR ABAA0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAG0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAJ0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAJ0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAK0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAI0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0003
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0003
-  
-         0.0 sq km in service area
-  
-  
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
- SECTOR ABAA0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAG0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAJ0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAJ0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAK0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAI0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0003
-  
-         0.0 sq km in service area
-  
-  
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
- SECTOR ABAA0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAG0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAJ0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAJ0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAK0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAI0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0003
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0003
-  
-         0.0 sq km in service area
-  
-  
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
- SECTOR ABAA0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAG0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAJ0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAJ0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAK0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAI0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0003
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0003
-  
-         0.0 sq km in service area
-  
-  
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
- SECTOR ABAA0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAG0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAJ0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAJ0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAK0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAI0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0003
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0003
-  
-         0.0 sq km in service area
-  
-  
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
- SECTOR ABAA0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAG0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAJ0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAJ0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAK0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAI0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0003
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0003
-  
-         0.0 sq km in service area
-  
-  
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
- SECTOR ABAA0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAG0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAJ0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAJ0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAK0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0003
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0003
-  
-         0.0 sq km in service area
-  
-  
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
- SECTOR ABAA0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAG0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAJ0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAJ0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAK0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAI0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0003
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0003
-  
-         0.0 sq km in service area
-  
-  
- Worst Channel C/(I+N) for Multiple-Channel Systems
-  
- Downlink required service C/(I+N) threshold:   13.00000    
-  
-  
- SECTOR ABAA0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAG0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAH0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAJ0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAJ0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAK0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAF0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAI0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAE0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAC0003
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAB0002
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0001
-  
-         0.0 sq km in service area
-  
-  
- SECTOR ABAD0003
   
          0.0 sq km in service area
   

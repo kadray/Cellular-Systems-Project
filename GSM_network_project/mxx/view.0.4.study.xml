@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <StudyGridParameters version="1.0.0">
-   <AreaStudy type="Strongest (most likely) Server" dBm_threshold="-120.0"/>
+   <AreaStudy type="Strongest (most likely) Server" dBm_threshold="-103.0"/>
    <RemoteUnit height="    1.5" height_reference="AGL" units="meters"/>
    <GeoCenter latitude="  44.5343333" longitude="-122.8896222"/>
    <Dimension width="  50.000" height="  50.000" grid_spacing="   0.100" units="km"/>
