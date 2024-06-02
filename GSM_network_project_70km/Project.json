@@ -1,0 +1,70 @@
+{
+   "version" : {
+      "major" : 8,
+      "minor" : 4,
+      "patch" : 1,
+      "build" : 21625
+   },
+   "autoPlacementForMultipoint" : {
+      "useLPWA" : false,
+      "useTraffic" : false,
+      "max_router_range_km" : 2.0,
+      "targetCPEGroup" : null,
+      "threshold" : -130.0,
+      "required_coverage_percent" : 98.6,
+      "max_collector_candidates" : 100,
+      "max_orphan_size" : 10,
+      "max_meters_per_router" : 100,
+      "fixedNumberCalc" : {
+         "number_of_tx" : 10,
+         "number_of_attempted_solutions" : 32,
+         "seed" : 314,
+         "min_tx_service" : 10,
+         "max_tx_service" : 1000,
+         "use_distance_seperation" : true,
+         "use_traffic" : false,
+         "initialTemp" : 1.0,
+         "tempMultiplier" : 0.95,
+         "tempSteps" : 100,
+         "PercentCoverageLike" : 10,
+         "useRSSISolver" : false,
+         "numberOfTrials" : 1000
+      },
+      "useInstalled" : false,
+      "installedTxGroup" : "",
+      "useOnlyActiveForInstalled" : false,
+      "selected_tx_group" : "",
+      "candidateType" : 0,
+      "targetType" : 0,
+      "selected_template" : 0,
+      "newTxGroupName" : "",
+      "includeInstalledInCreatedGroup" : false,
+      "includeUnselected" : false,
+      "snap" : {
+         "boundaryFile" : "",
+         "candidatesFile" : "",
+         "streetDir" : "",
+         "number_candidates" : 100,
+         "max_snap_radius" : 1.0,
+         "use_snapping" : false,
+         "use_unsnapped" : false,
+         "use_street_snap" : false,
+         "use_intersection_snap" : false,
+         "cull_by_meter_distance" : true,
+         "CullDistanceKM" : 1.0,
+         "AntennaHeight" : 3.141
+      },
+      "defaultCPE" : {
+         "meterType" : 0,
+         "max_hops" : 5,
+         "max_meters_per_sample" : 100,
+         "prefix" : "x",
+         "representative_meter_file" : "",
+         "max_radius_for_sampling" : 1.0,
+         "cluster_boundary_widthKM" : 3.0,
+         "max_sam_mets_per_cluster" : 10000
+      },
+      "CandidateTypeForSerialization" : 0,
+      "TargetTypeForSerialization" : 0
+   }
+}

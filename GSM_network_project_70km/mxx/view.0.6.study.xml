@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<StudyGridParameters version="1.0.0">
+   <AreaStudy type="Handoff regions for non-CDMA systems" dBm_threshold="   0.0"/>
+   <RemoteUnit height="    1.5" height_reference="AGL" units="meters"/>
+   <GeoCenter latitude="  44.5343333" longitude="-122.8896222"/>
+   <Dimension width="  50.000" height="  50.000" grid_spacing="   0.100" units="km"/>
+</StudyGridParameters>               
