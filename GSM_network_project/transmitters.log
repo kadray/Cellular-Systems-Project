@@ -1,4 +1,4 @@
-study index1
+study index2
 Site ID   Ant. Elev. AMSL (m )  Frequency (MHz)  ERPi(dbW) Orient./Pol.  Group  Coordinates
 --------  --------------------  ---------------  ----------  ------------  -----  ---------------------------
 ABAF0001                 129.8        960.00000       13.50    Use file-vertical      1  N44°34'23.65" W123°01'12.54"
@@ -29,6 +29,8 @@ ABAT0002                 154.2        960.00000        5.50    Use file-vertical
 ABAR0001                 400.7        900.00000        5.00   Isotropic-horizontal      1  N44°19'30.47" W123°00'16.11"
 ABAJ0001                 164.0        960.00000       15.00    Use file-vertical      1  N44°43'20.11" W122°59'08.30"
 ABAJ0002                 164.0        960.00000       16.00    Use file-vertical      1  N44°43'20.11" W122°59'08.30"
+ABBG0001                 812.4        960.00000       14.00    Use file-vertical      1  N44°44'15.49" W122°35'32.99"
+ABBG0002                 812.4        960.00000       11.40    Use file-vertical      1  N44°44'15.49" W122°35'32.99"
 ABAL0001                 214.1        900.00000       15.00   Isotropic-horizontal      1  N44°44'00.25" W122°39'57.59"
 ABAY0001                 876.8        960.00000       18.00    Use file-vertical      1  N44°32'04.03" W122°37'18.36"
 ABAY0002                 876.8        960.00000       18.00    Use file-vertical      1  N44°32'04.03" W122°37'18.36"

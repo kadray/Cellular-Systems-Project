@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <TransmitterList Version="8.4.0">
- <Transmitters count="32">
+ <Transmitters count="33">
   <TxSite>
    <TxStudy>
     <BaseStation name="Albany - Lebanon ABAF" guid="8afd5e89-cfc9-4b7f-b8a7-7024cf051c1f" latitude="44.57323667041379" longitude="-123.0201493081593" elevation="99.75698852539063" info_type="1" elevation_type="2">
@@ -42,7 +42,7 @@
          <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
         </Measured>
         <Predicted>
-         <TrafficStat average_voice="17015.1426" average_data="17.0151" average_uplink_data="17.0151"/>
+         <TrafficStat average_voice="16940.1523" average_data="16.9402" average_uplink_data="16.9402"/>
         </Predicted>
        </TrafficStatSet>
       </Channel>
@@ -154,7 +154,7 @@
          <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
         </Measured>
         <Predicted>
-         <TrafficStat average_voice="19060.6738" average_data="19.0607" average_uplink_data="19.0607"/>
+         <TrafficStat average_voice="18661.7031" average_data="18.6617" average_uplink_data="18.6617"/>
         </Predicted>
        </TrafficStatSet>
       </Channel>
@@ -203,7 +203,7 @@
          <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
         </Measured>
         <Predicted>
-         <TrafficStat average_voice="10435.834" average_data="10.4358" average_uplink_data="10.4358"/>
+         <TrafficStat average_voice="10366.873" average_data="10.3669" average_uplink_data="10.3669"/>
         </Predicted>
        </TrafficStatSet>
       </Channel>
@@ -266,7 +266,7 @@
          <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
         </Measured>
         <Predicted>
-         <TrafficStat average_voice="8408.1973" average_data="8.408200000000001" average_uplink_data="8.408200000000001"/>
+         <TrafficStat average_voice="8258.2168" average_data="8.2582" average_uplink_data="8.2582"/>
         </Predicted>
        </TrafficStatSet>
       </Channel>
@@ -314,7 +314,7 @@
          <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
         </Measured>
         <Predicted>
-         <TrafficStat average_voice="4310.5698" average_data="4.3106" average_uplink_data="4.3106"/>
+         <TrafficStat average_voice="4697.5503" average_data="4.6976" average_uplink_data="4.6976"/>
         </Predicted>
        </TrafficStatSet>
       </Channel>
@@ -356,16 +356,16 @@
         <chan num="13"/>
        </ChannelSet>
        <ChannelSetExcluded assigned_channels="0"/>
-       <TrafficStatSet num_calc_channel="7">
+       <TrafficStatSet num_calc_channel="8">
         <Measured>
          <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
         </Measured>
         <Predicted>
-         <TrafficStat average_voice="1949.86" average_data="1.9499" average_uplink_data="1.9499"/>
+         <TrafficStat average_voice="2741.78" average_data="2.7418" average_uplink_data="2.7418"/>
         </Predicted>
        </TrafficStatSet>
       </Channel>
-      <CdmaChannels traffic_channels_per_carrier="7" use_system_type_defaults="true" num_tces_enabled="1" percent_power_for_pilot_channel="20.0" percent_power_for_traffic_channel="75.0" percent_power_for_sync_channel="2.0" percent_power_for_paging_channel="3.0" handoff_initiate_threshold="-12.0" handoff_drop_threshold="-16.0" traffic_data_rate="1200.0" CDMA_PN_offset_index="1"/>
+      <CdmaChannels traffic_channels_per_carrier="8" use_system_type_defaults="true" num_tces_enabled="1" percent_power_for_pilot_channel="20.0" percent_power_for_traffic_channel="75.0" percent_power_for_sync_channel="2.0" percent_power_for_paging_channel="3.0" handoff_initiate_threshold="-12.0" handoff_drop_threshold="-16.0" traffic_data_rate="1200.0" CDMA_PN_offset_index="1"/>
       <WiMAXChannels segment="1" id_cell="0" preamble_pn="0"/>
       <LTEChannels cell_id="0" cell_id_group="0"/>
       <MeasAnalysis data_file_name="" selected_sector="" meas_data_file_type="EDX" limit_by_distance="false" limit_by_azimuth="false" limit_by_boundary_file="false" limit_by_measurement="false" limit_by_avg_data="false" distance_min="0.1" distance_max="1000.0" azimuth_start="0.0" azimuth_end="0.0" measurement_min="0.0" measurement_max="0.0" average_data="1.0" boundary_file=""/>
@@ -525,7 +525,7 @@
          <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
         </Measured>
         <Predicted>
-         <TrafficStat average_voice="12710.3125" average_data="12.7103" average_uplink_data="12.7103"/>
+         <TrafficStat average_voice="13019.3027" average_data="13.0193" average_uplink_data="13.0193"/>
         </Predicted>
        </TrafficStatSet>
       </Channel>
@@ -803,7 +803,7 @@
          <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
         </Measured>
         <Predicted>
-         <TrafficStat average_voice="2234.6399" average_data="2.2346" average_uplink_data="2.2346"/>
+         <TrafficStat average_voice="2195.6499" average_data="2.1956" average_uplink_data="2.1956"/>
         </Predicted>
        </TrafficStatSet>
       </Channel>
@@ -1353,16 +1353,16 @@
         <chan num="88"/>
        </ChannelSet>
        <ChannelSetExcluded assigned_channels="0"/>
-       <TrafficStatSet num_calc_channel="8">
+       <TrafficStatSet num_calc_channel="7">
         <Measured>
          <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
         </Measured>
         <Predicted>
-         <TrafficStat average_voice="2588.8701" average_data="2.5889" average_uplink_data="2.5889"/>
+         <TrafficStat average_voice="1766.9102" average_data="1.7669" average_uplink_data="1.7669"/>
         </Predicted>
        </TrafficStatSet>
       </Channel>
-      <CdmaChannels traffic_channels_per_carrier="8" use_system_type_defaults="true" num_tces_enabled="1" percent_power_for_pilot_channel="20.0" percent_power_for_traffic_channel="75.0" percent_power_for_sync_channel="2.0" percent_power_for_paging_channel="3.0" handoff_initiate_threshold="-12.0" handoff_drop_threshold="-16.0" traffic_data_rate="1200.0" CDMA_PN_offset_index="1"/>
+      <CdmaChannels traffic_channels_per_carrier="7" use_system_type_defaults="true" num_tces_enabled="1" percent_power_for_pilot_channel="20.0" percent_power_for_traffic_channel="75.0" percent_power_for_sync_channel="2.0" percent_power_for_paging_channel="3.0" handoff_initiate_threshold="-12.0" handoff_drop_threshold="-16.0" traffic_data_rate="1200.0" CDMA_PN_offset_index="1"/>
       <WiMAXChannels segment="0" id_cell="0" preamble_pn="0"/>
       <LTEChannels cell_id="0" cell_id_group="0"/>
       <MeasAnalysis data_file_name="" selected_sector="" meas_data_file_type="EDX" limit_by_distance="false" limit_by_azimuth="false" limit_by_boundary_file="false" limit_by_measurement="false" limit_by_avg_data="false" distance_min="0.1" distance_max="1000.0" azimuth_start="0.0" azimuth_end="0.0" measurement_min="0.0" measurement_max="0.0" average_data="1.0" boundary_file=""/>
@@ -1481,7 +1481,7 @@
          <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
         </Measured>
         <Predicted>
-         <TrafficStat average_voice="4247.4209" average_data="4.2474" average_uplink_data="4.2474"/>
+         <TrafficStat average_voice="4181.4307" average_data="4.1814" average_uplink_data="4.1814"/>
         </Predicted>
        </TrafficStatSet>
       </Channel>
@@ -1530,11 +1530,119 @@
          <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
         </Measured>
         <Predicted>
-         <TrafficStat average_voice="11330.0439" average_data="11.33" average_uplink_data="11.33"/>
+         <TrafficStat average_voice="11288.0537" average_data="11.2881" average_uplink_data="11.2881"/>
         </Predicted>
        </TrafficStatSet>
       </Channel>
       <CdmaChannels traffic_channels_per_carrier="21" use_system_type_defaults="true" num_tces_enabled="1" percent_power_for_pilot_channel="20.0" percent_power_for_traffic_channel="75.0" percent_power_for_sync_channel="2.0" percent_power_for_paging_channel="3.0" handoff_initiate_threshold="-12.0" handoff_drop_threshold="-16.0" traffic_data_rate="1200.0" CDMA_PN_offset_index="1"/>
+      <WiMAXChannels segment="0" id_cell="0" preamble_pn="0"/>
+      <LTEChannels cell_id="0" cell_id_group="0"/>
+      <MeasAnalysis data_file_name="" selected_sector="" meas_data_file_type="EDX" limit_by_distance="false" limit_by_azimuth="false" limit_by_boundary_file="false" limit_by_measurement="false" limit_by_avg_data="false" distance_min="0.1" distance_max="1000.0" azimuth_start="0.0" azimuth_end="0.0" measurement_min="0.0" measurement_max="0.0" average_data="1.0" boundary_file=""/>
+      <Receiver adjacent_channel_rejection="25.0" use_diversity_receive_antenna="false" predicted_ul_ix="-160.0" measured_ul_ix="-160.0" override_ul_ix="false" use_TTA_multi="false">
+       <ReceiverBase required_service_CIN_ratio="13.0" system_noise_figure="5.0" eff_noise_bandwidth="0.2" filter_file_code="0" diversity_type="unprotected" effective_diversity_gain="5.0"/>
+       <AmplifierData use_TTA="false" use_multicoupler="false" TTA_gain="0.0" TTA_noise="0.0" MC_gain="0.0" MC_noise="0.0" BTS_noise="0.0"/>
+      </Receiver>
+      <OptimizationData cost="0.0"/>
+      <Predicted_Neighbor_List>
+       <NeighborList number_entries="0"/>
+      </Predicted_Neighbor_List>
+      <Actual_Neighbor_List>
+       <NeighborList number_entries="0"/>
+      </Actual_Neighbor_List>
+     </Tx>
+    </Antennas>
+   </TxStudy>
+  </TxSite>
+  <TxSite>
+   <TxStudy>
+    <BaseStation name="Jordan E ABBG" guid="c12a75a9-1ccb-4860-a134-87e6c1ba98d4" latitude="44.73763555902491" longitude="-122.5924984348094" elevation="782.4148559570313" info_type="1" elevation_type="2">
+     <Other address_line1="" address_line2="" address_line3="" telephone="" owner="" tower_number="">
+      <note_file size="0"/>
+      <photo_file size="0"/>
+      <drawing_file size="0"/>
+     </Other>
+     <Backhaul backhaul_type="none" ID="none"/>
+    </BaseStation>
+    <Antennas no_of_antennas="2">
+     <Tx frequency="960.0" adaptive_antenna="0" simulcast_delay_offset="0.0" override_most_likely_server_color="false" propagation_group="1" mimo_type_and_size="None" use_amod_table="false" amod_table_name="Global Table" has_repeater="false" repeater_owner="" rpt_interfere="0" rpt_gain="0.0" rpt_type="1">
+      <BaseTx tx_id="ABBG0001" UserSectorID="" guid="7a3c2e08-8e44-416a-ac51-69699374a38b" system="1" focus="false" most_likely_server_symbol="SOLID">
+       <most_likely_server_color>
+        <Color r="127" g="3" b="66"/>
+       </most_likely_server_color>
+       <StudySector start_azimuth="0.0" stop_azimuth="360.0" azimuth_increment="1.0" odd_azimuth="-1.0" study_radius="70.0" study_point_spacing="0.1" approximate_range="50.0"/>
+      </BaseTx>
+      <TransmitterAntenna>
+       <TxAntenna coax_cable_loss="1.0" coupling_loss="0.0" coupling_loss_spec_distance="0.0" coax_routing_name="">
+        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H120.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="8.0" radome_loss="0.0" max_transmit_power_per_channel="9.0" min_transmit_power_per_channel="0.0" tx_rx_type="Cellular (850MHz) 20 watt" power_spectral_density_file_code="0" cross_polarization_rejection="15.0" antenna_type="" use_antenna_type="false" az_orient="20.0" beam_tilt="0.0" beam_tilt_az="20.0" rotate_antenna="false"/>
+       </TxAntenna>
+      </TransmitterAntenna>
+      <ReceiverAntenna>
+       <TxAntenna coax_cable_loss="1.0" coupling_loss="0.0" coupling_loss_spec_distance="0.0" coax_routing_name="">
+        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB871H83.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="8.0" min_transmit_power_per_channel="0.0" tx_rx_type="transmitter 1" power_spectral_density_file_code="0" cross_polarization_rejection="15.0" antenna_type="" use_antenna_type="false" az_orient="280.0" beam_tilt="0.0" beam_tilt_az="280.0" rotate_antenna="false"/>
+       </TxAntenna>
+      </ReceiverAntenna>
+      <Channel lock_status="unlocked" dvcc="1" bcc="1" ncc="1" dcch="1" lci="1" use_freq_hop="false" freq_hop_gain="3.0" gsm_diversity_gain_type="1" gsm_fixed_diversity_gain="3.0" gsm_db_per_freq_gain="3.0" gsm_fh_sequence_no="0" gsm_maio_offset="0" gsm_AMR_on="0" gsm_DTX_on="0" gsm_dtx_intrf_gain="3.0" number_of_assignable_downlink_channels="0" number_of_assignable_uplink_channels="0" sat="5970" dcc="1" band="L">
+       <ChannelSet assigned_channels="1">
+        <chan num="6"/>
+       </ChannelSet>
+       <ChannelSetExcluded assigned_channels="0"/>
+       <TrafficStatSet num_calc_channel="2">
+        <Measured>
+         <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
+        </Measured>
+        <Predicted>
+         <TrafficStat average_voice="134.95" average_data="0.135" average_uplink_data="0.135"/>
+        </Predicted>
+       </TrafficStatSet>
+      </Channel>
+      <CdmaChannels traffic_channels_per_carrier="2" use_system_type_defaults="true" num_tces_enabled="1" percent_power_for_pilot_channel="20.0" percent_power_for_traffic_channel="75.0" percent_power_for_sync_channel="2.0" percent_power_for_paging_channel="3.0" handoff_initiate_threshold="-12.0" handoff_drop_threshold="-16.0" traffic_data_rate="1200.0" CDMA_PN_offset_index="1"/>
+      <WiMAXChannels segment="0" id_cell="0" preamble_pn="0"/>
+      <LTEChannels cell_id="0" cell_id_group="0"/>
+      <MeasAnalysis data_file_name="" selected_sector="" meas_data_file_type="EDX" limit_by_distance="false" limit_by_azimuth="false" limit_by_boundary_file="false" limit_by_measurement="false" limit_by_avg_data="false" distance_min="0.1" distance_max="1000.0" azimuth_start="0.0" azimuth_end="0.0" measurement_min="0.0" measurement_max="0.0" average_data="1.0" boundary_file=""/>
+      <Receiver adjacent_channel_rejection="25.0" use_diversity_receive_antenna="false" predicted_ul_ix="-160.0" measured_ul_ix="-160.0" override_ul_ix="false" use_TTA_multi="false">
+       <ReceiverBase required_service_CIN_ratio="13.0" system_noise_figure="5.0" eff_noise_bandwidth="0.2" filter_file_code="0" diversity_type="unprotected" effective_diversity_gain="5.0"/>
+       <AmplifierData use_TTA="false" use_multicoupler="false" TTA_gain="0.0" TTA_noise="0.0" MC_gain="0.0" MC_noise="0.0" BTS_noise="0.0"/>
+      </Receiver>
+      <OptimizationData cost="0.0"/>
+      <Predicted_Neighbor_List>
+       <NeighborList number_entries="0"/>
+      </Predicted_Neighbor_List>
+      <Actual_Neighbor_List>
+       <NeighborList number_entries="0"/>
+      </Actual_Neighbor_List>
+     </Tx>
+     <Tx frequency="960.0" adaptive_antenna="0" simulcast_delay_offset="0.0" override_most_likely_server_color="false" propagation_group="1" mimo_type_and_size="None" use_amod_table="false" amod_table_name="Global Table" has_repeater="false" repeater_owner="" rpt_interfere="0" rpt_gain="0.0" rpt_type="1">
+      <BaseTx tx_id="ABBG0002" UserSectorID="" guid="5578f908-f67f-44b2-895b-675172b2c556" system="1" focus="false" most_likely_server_symbol="SOLID">
+       <most_likely_server_color>
+        <Color r="102" g="194" b="158"/>
+       </most_likely_server_color>
+       <StudySector start_azimuth="0.0" stop_azimuth="360.0" azimuth_increment="1.0" odd_azimuth="-1.0" study_radius="70.0" study_point_spacing="0.1" approximate_range="50.0"/>
+      </BaseTx>
+      <TransmitterAntenna>
+       <TxAntenna coax_cable_loss="1.0" coupling_loss="0.0" coupling_loss_spec_distance="0.0" coax_routing_name="">
+        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB871H83.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="5.0" min_transmit_power_per_channel="0.0" tx_rx_type="Cellular (850MHz) 20 watt" power_spectral_density_file_code="0" cross_polarization_rejection="15.0" antenna_type="" use_antenna_type="false" az_orient="180.0" beam_tilt="-1.0" beam_tilt_az="180.0" rotate_antenna="false"/>
+       </TxAntenna>
+      </TransmitterAntenna>
+      <ReceiverAntenna>
+       <TxAntenna coax_cable_loss="1.0" coupling_loss="0.0" coupling_loss_spec_distance="0.0" coax_routing_name="">
+        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB871H83.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="9.0" min_transmit_power_per_channel="0.0" tx_rx_type="transmitter 1" power_spectral_density_file_code="0" cross_polarization_rejection="15.0" antenna_type="" use_antenna_type="false" az_orient="170.0" beam_tilt="-1.0" beam_tilt_az="170.0" rotate_antenna="false"/>
+       </TxAntenna>
+      </ReceiverAntenna>
+      <Channel lock_status="unlocked" dvcc="1" bcc="1" ncc="1" dcch="1" lci="1" use_freq_hop="false" freq_hop_gain="3.0" gsm_diversity_gain_type="1" gsm_fixed_diversity_gain="3.0" gsm_db_per_freq_gain="3.0" gsm_fh_sequence_no="0" gsm_maio_offset="0" gsm_AMR_on="0" gsm_DTX_on="0" gsm_dtx_intrf_gain="3.0" number_of_assignable_downlink_channels="0" number_of_assignable_uplink_channels="0" sat="5970" dcc="1" band="L">
+       <ChannelSet assigned_channels="1">
+        <chan num="54"/>
+       </ChannelSet>
+       <ChannelSetExcluded assigned_channels="0"/>
+       <TrafficStatSet num_calc_channel="3">
+        <Measured>
+         <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
+        </Measured>
+        <Predicted>
+         <TrafficStat average_voice="185.98" average_data="0.186" average_uplink_data="0.186"/>
+        </Predicted>
+       </TrafficStatSet>
+      </Channel>
+      <CdmaChannels traffic_channels_per_carrier="3" use_system_type_defaults="true" num_tces_enabled="1" percent_power_for_pilot_channel="20.0" percent_power_for_traffic_channel="75.0" percent_power_for_sync_channel="2.0" percent_power_for_paging_channel="3.0" handoff_initiate_threshold="-12.0" handoff_drop_threshold="-16.0" traffic_data_rate="1200.0" CDMA_PN_offset_index="1"/>
       <WiMAXChannels segment="0" id_cell="0" preamble_pn="0"/>
       <LTEChannels cell_id="0" cell_id_group="0"/>
       <MeasAnalysis data_file_name="" selected_sector="" meas_data_file_type="EDX" limit_by_distance="false" limit_by_azimuth="false" limit_by_boundary_file="false" limit_by_measurement="false" limit_by_avg_data="false" distance_min="0.1" distance_max="1000.0" azimuth_start="0.0" azimuth_end="0.0" measurement_min="0.0" measurement_max="0.0" average_data="1.0" boundary_file=""/>
@@ -1652,7 +1760,7 @@
          <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
         </Measured>
         <Predicted>
-         <TrafficStat average_voice="185.97" average_data="0.186" average_uplink_data="0.186"/>
+         <TrafficStat average_voice="161.98" average_data="0.162" average_uplink_data="0.162"/>
         </Predicted>
        </TrafficStatSet>
       </Channel>
@@ -1699,7 +1807,7 @@
          <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
         </Measured>
         <Predicted>
-         <TrafficStat average_voice="1052.9501" average_data="1.053" average_uplink_data="1.053"/>
+         <TrafficStat average_voice="929.97" average_data="0.9300000000000001" average_uplink_data="0.9300000000000001"/>
         </Predicted>
        </TrafficStatSet>
       </Channel>
@@ -1741,16 +1849,16 @@
         <chan num="19"/>
        </ChannelSet>
        <ChannelSetExcluded assigned_channels="0"/>
-       <TrafficStatSet num_calc_channel="4">
+       <TrafficStatSet num_calc_channel="5">
         <Measured>
          <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
         </Measured>
         <Predicted>
-         <TrafficStat average_voice="722.9501" average_data="0.723" average_uplink_data="0.723"/>
+         <TrafficStat average_voice="1208.86" average_data="1.2089" average_uplink_data="1.2089"/>
         </Predicted>
        </TrafficStatSet>
       </Channel>
-      <CdmaChannels traffic_channels_per_carrier="4" use_system_type_defaults="true" num_tces_enabled="1" percent_power_for_pilot_channel="20.0" percent_power_for_traffic_channel="75.0" percent_power_for_sync_channel="2.0" percent_power_for_paging_channel="3.0" handoff_initiate_threshold="-12.0" handoff_drop_threshold="-16.0" traffic_data_rate="1200.0" CDMA_PN_offset_index="1"/>
+      <CdmaChannels traffic_channels_per_carrier="5" use_system_type_defaults="true" num_tces_enabled="1" percent_power_for_pilot_channel="20.0" percent_power_for_traffic_channel="75.0" percent_power_for_sync_channel="2.0" percent_power_for_paging_channel="3.0" handoff_initiate_threshold="-12.0" handoff_drop_threshold="-16.0" traffic_data_rate="1200.0" CDMA_PN_offset_index="1"/>
       <WiMAXChannels segment="0" id_cell="0" preamble_pn="0"/>
       <LTEChannels cell_id="0" cell_id_group="0"/>
       <MeasAnalysis data_file_name="" selected_sector="" meas_data_file_type="EDX" limit_by_distance="false" limit_by_azimuth="false" limit_by_boundary_file="false" limit_by_measurement="false" limit_by_avg_data="false" distance_min="0.1" distance_max="1000.0" azimuth_start="0.0" azimuth_end="0.0" measurement_min="0.0" measurement_max="0.0" average_data="1.0" boundary_file=""/>
@@ -1968,7 +2076,7 @@
          <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
         </Measured>
         <Predicted>
-         <TrafficStat average_voice="2591.72" average_data="2.5917" average_uplink_data="2.5917"/>
+         <TrafficStat average_voice="2387.73" average_data="2.3877" average_uplink_data="2.3877"/>
         </Predicted>
        </TrafficStatSet>
       </Channel>
@@ -2125,7 +2233,7 @@
          <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
         </Measured>
         <Predicted>
-         <TrafficStat average_voice="7112.6353" average_data="7.1126" average_uplink_data="7.1126"/>
+         <TrafficStat average_voice="7061.645" average_data="7.0616" average_uplink_data="7.0616"/>
         </Predicted>
        </TrafficStatSet>
       </Channel>
@@ -2186,7 +2294,7 @@
          <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
         </Measured>
         <Predicted>
-         <TrafficStat average_voice="1922.8101" average_data="1.9228" average_uplink_data="1.9228"/>
+         <TrafficStat average_voice="1916.8201" average_data="1.9168" average_uplink_data="1.9168"/>
         </Predicted>
        </TrafficStatSet>
       </Channel>
@@ -2417,7 +2525,7 @@
          <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
         </Measured>
         <Predicted>
-         <TrafficStat average_voice="2762.6499" average_data="2.7627" average_uplink_data="2.7627"/>
+         <TrafficStat average_voice="2756.6599" average_data="2.7567" average_uplink_data="2.7567"/>
         </Predicted>
        </TrafficStatSet>
       </Channel>
@@ -2806,7 +2914,7 @@
          <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
         </Measured>
         <Predicted>
-         <TrafficStat average_voice="2363.8301" average_data="2.3638" average_uplink_data="2.3638"/>
+         <TrafficStat average_voice="2330.8401" average_data="2.3308" average_uplink_data="2.3308"/>
         </Predicted>
        </TrafficStatSet>
       </Channel>
@@ -3099,7 +3207,7 @@
          <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
         </Measured>
         <Predicted>
-         <TrafficStat average_voice="7037.3384" average_data="7.0373" average_uplink_data="7.0373"/>
+         <TrafficStat average_voice="7016.3481" average_data="7.0163" average_uplink_data="7.0163"/>
         </Predicted>
        </TrafficStatSet>
       </Channel>
