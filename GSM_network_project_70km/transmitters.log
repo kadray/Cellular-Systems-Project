@@ -1,4 +1,4 @@
-study index5
+study index2
 Site ID   Ant. Elev. AMSL (m )  Frequency (MHz)  ERPi(dbW) Orient./Pol.  Group  Coordinates
 --------  --------------------  ---------------  ----------  ------------  -----  ---------------------------
 ABAF0001                 139.8        960.00000       12.50    Use file-vertical      1  N44°34'23.65" W123°01'12.54"
@@ -7,7 +7,6 @@ ABAI0001                 234.0        960.00000        8.40    Use file-vertical
 ABAI0002                 234.0        960.00000       17.90    Use file-vertical      1  N44°39'15.55" W123°01'00.36"
 ABAE0001                 131.0        960.00000        8.40    Use file-vertical      1  N44°38'53.69" W123°07'54.63"
 ABAE0002                 131.0        960.00000        9.40    Use file-vertical      1  N44°38'53.69" W123°07'54.63"
-ABAE0003                 131.0        960.00000       14.40    Use file-vertical      1  N44°38'53.69" W123°07'54.63"
 ABAC0001                  99.4        960.00000        7.40    Use file-vertical      1  N44°36'50.84" W123°06'23.10"
 ABAC0002                  99.4        960.00000        7.40    Use file-vertical      1  N44°36'50.84" W123°06'23.10"
 ABAC0003                  99.4        960.00000       19.40    Use file-vertical      1  N44°36'50.84" W123°06'23.10"
@@ -23,7 +22,7 @@ ABAS0001                 120.1        960.00000       18.40    Use file-vertical
 ABAS0002                 120.1        960.00000       13.00    Use file-vertical      1  N44°43'15.88" W123°05'47.50"
 ABBB0001                 590.4        960.00000       12.00    Use file-vertical      1  N44°26'59.94" W122°36'21.40"
 ABBB0002                 590.4        960.00000       18.00    Use file-vertical      1  N44°26'59.94" W122°36'21.40"
-ABAZ0001                 407.1        960.00000       17.00    Use file-vertical      1  N44°36'04.62" W122°39'58.65"
+ABAZ0001                 407.1        960.00000       18.40    Use file-vertical      1  N44°36'04.62" W122°39'58.65"
 ABAT0001                 154.2        960.00000        8.00    Use file-vertical      1  N44°39'49.14" W123°11'22.20"
 ABAT0002                 154.2        960.00000        5.50    Use file-vertical      1  N44°39'49.14" W123°11'22.20"
 ABAR0001                 400.7        960.00000        5.00   Isotropic-horizontal      1  N44°19'30.47" W123°00'16.11"
@@ -35,7 +34,7 @@ ABAL0001                 214.1        960.00000       15.00   Isotropic-horizont
 ABAY0001                 876.8        960.00000       18.00    Use file-vertical      1  N44°32'04.03" W122°37'18.36"
 ABAY0002                 876.8        960.00000       18.00    Use file-vertical      1  N44°32'04.03" W122°37'18.36"
 ABAY0003                 866.8        960.00000       15.00    Use file-vertical      1  N44°32'04.03" W122°37'18.36"
-ABBF0001                 291.7        960.00000       17.00    Use file-vertical      1  N44°44'48.23" W122°45'51.48"
+ABBF0001                 291.7        960.00000       16.40    Use file-vertical      1  N44°44'48.23" W122°45'51.48"
 ABAB0001                 395.5        960.00000        7.90    Use file-vertical      1  N44°31'36.11" W122°52'29.92"
 ABAB0002                 395.5        960.00000        7.90    Use file-vertical      1  N44°31'36.11" W122°52'29.92"
 ABAB0003                 400.5        960.00000        9.40    Use file-vertical      1  N44°31'36.11" W122°52'29.92"
@@ -46,7 +45,7 @@ ABAX0001                 440.0        960.00000       14.00    Use file-vertical
 ABBD0002                 130.5        960.00000       17.00    Use file-vertical      1  N44°18'48.15" W123°11'52.11"
 ABAP0001                 447.9        960.00000       14.00    Use file-vertical      1  N44°20'59.64" W122°54'23.90"
 ABAP0002                 447.9        960.00000       14.00    Use file-vertical      1  N44°20'59.64" W122°54'23.90"
-ABAN0002                 471.0        960.00000       13.50    Use file-vertical      1  N44°40'12.64" W122°44'41.23"
+ABAN0002                 471.0        960.00000       11.50    Use file-vertical      1  N44°40'12.64" W122°44'41.23"
 ABAN0003                 466.0        960.00000       15.40    Use file-vertical      1  N44°40'12.64" W122°44'41.23"
 ABBA0001                 152.7        960.00000       15.00    Use file-vertical      1  N44°42'41.89" W122°47'41.85"
 ABBA0002                 152.7        960.00000       11.00    Use file-vertical      1  N44°42'41.89" W122°47'41.85"
