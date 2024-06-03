@@ -190,8 +190,8 @@
   <TreeNode NodeType="Views" NodeText="Map Views" state="96"/>
   <TreeNode NodeType="MapView" NodeText="initial view" state="96"/>
   <TreeNode NodeType="MapViewLayer" NodeText="Map Layers" state="96"/>
-  <TreeNode NodeType="MapViewAreaStudy" NodeText="Area Studies" state="4192"/>
-  <TreeNode NodeType="MapViewRteAreaStudy" NodeText="Route Studies" state="4096"/>
-  <TreeNode NodeType="MapViewMptStudy" NodeText="Multipoint Studies" state="4096"/>
+  <TreeNode NodeType="MapViewAreaStudy" NodeText="Area Studies" state="96"/>
+  <TreeNode NodeType="MapViewRteAreaStudy" NodeText="Route Studies" state="0"/>
+  <TreeNode NodeType="MapViewMptStudy" NodeText="Multipoint Studies" state="0"/>
  </PROJECT_PANE_TREE>
 </CommonData>

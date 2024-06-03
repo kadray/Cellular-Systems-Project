@@ -37,16 +37,16 @@
         <chan num="119"/>
        </ChannelSet>
        <ChannelSetExcluded assigned_channels="0"/>
-       <TrafficStatSet num_calc_channel="28">
+       <TrafficStatSet num_calc_channel="29">
         <Measured>
          <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
         </Measured>
         <Predicted>
-         <TrafficStat average_voice="16499.1719" average_data="16.4992" average_uplink_data="16.4992"/>
+         <TrafficStat average_voice="17510.1523" average_data="17.5102" average_uplink_data="17.5102"/>
         </Predicted>
        </TrafficStatSet>
       </Channel>
-      <CdmaChannels traffic_channels_per_carrier="28" use_system_type_defaults="true" num_tces_enabled="1" percent_power_for_pilot_channel="20.0" percent_power_for_traffic_channel="75.0" percent_power_for_sync_channel="2.0" percent_power_for_paging_channel="3.0" handoff_initiate_threshold="-12.0" handoff_drop_threshold="-16.0" traffic_data_rate="1200.0" CDMA_PN_offset_index="1"/>
+      <CdmaChannels traffic_channels_per_carrier="29" use_system_type_defaults="true" num_tces_enabled="1" percent_power_for_pilot_channel="20.0" percent_power_for_traffic_channel="75.0" percent_power_for_sync_channel="2.0" percent_power_for_paging_channel="3.0" handoff_initiate_threshold="-12.0" handoff_drop_threshold="-16.0" traffic_data_rate="1200.0" CDMA_PN_offset_index="1"/>
       <WiMAXChannels segment="0" id_cell="0" preamble_pn="0"/>
       <LTEChannels cell_id="0" cell_id_group="0"/>
       <MeasAnalysis data_file_name="" selected_sector="" meas_data_file_type="EDX" limit_by_distance="false" limit_by_azimuth="false" limit_by_boundary_file="false" limit_by_measurement="false" limit_by_avg_data="false" distance_min="0.1" distance_max="1000.0" azimuth_start="0.0" azimuth_end="0.0" measurement_min="0.0" measurement_max="0.0" average_data="1.0" boundary_file=""/>
@@ -56,7 +56,13 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="5">
+        <Neighbor sector="ABAF0002"/>
+        <Neighbor sector="ABAI0001"/>
+        <Neighbor sector="ABAI0002"/>
+        <Neighbor sector="ABAC0002"/>
+        <Neighbor sector="ABBE0001"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -104,7 +110,15 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="7">
+        <Neighbor sector="ABAF0001"/>
+        <Neighbor sector="*ABAZ0001"/>
+        <Neighbor sector="ABAI0002"/>
+        <Neighbor sector="ABAD0003"/>
+        <Neighbor sector="ABAD0001"/>
+        <Neighbor sector="ABAB0001"/>
+        <Neighbor sector="ABAB0002"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -133,7 +147,7 @@
       </BaseTx>
       <TransmitterAntenna>
        <TxAntenna coax_cable_loss="1.0" coupling_loss="0.0" coupling_loss_spec_distance="0.0" coax_routing_name="">
-        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB871H83.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="2.0" min_transmit_power_per_channel="0.0" tx_rx_type="Cellular (850MHz) 20 watt" power_spectral_density_file_code="0" cross_polarization_rejection="15.0" antenna_type="" use_antenna_type="false" az_orient="245.0" beam_tilt="0.0" beam_tilt_az="245.0" rotate_antenna="false"/>
+        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB871H83.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="1.0" min_transmit_power_per_channel="0.0" tx_rx_type="Cellular (850MHz) 20 watt" power_spectral_density_file_code="0" cross_polarization_rejection="15.0" antenna_type="" use_antenna_type="false" az_orient="245.0" beam_tilt="0.0" beam_tilt_az="245.0" rotate_antenna="false"/>
        </TxAntenna>
       </TransmitterAntenna>
       <ReceiverAntenna>
@@ -149,16 +163,16 @@
         <chan num="83"/>
        </ChannelSet>
        <ChannelSetExcluded assigned_channels="0"/>
-       <TrafficStatSet num_calc_channel="34">
+       <TrafficStatSet num_calc_channel="30">
         <Measured>
          <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
         </Measured>
         <Predicted>
-         <TrafficStat average_voice="21319.5781" average_data="21.3196" average_uplink_data="21.3196"/>
+         <TrafficStat average_voice="17878.8398" average_data="17.8788" average_uplink_data="17.8788"/>
         </Predicted>
        </TrafficStatSet>
       </Channel>
-      <CdmaChannels traffic_channels_per_carrier="34" use_system_type_defaults="true" num_tces_enabled="1" percent_power_for_pilot_channel="20.0" percent_power_for_traffic_channel="75.0" percent_power_for_sync_channel="2.0" percent_power_for_paging_channel="3.0" handoff_initiate_threshold="-12.0" handoff_drop_threshold="-16.0" traffic_data_rate="1200.0" CDMA_PN_offset_index="1"/>
+      <CdmaChannels traffic_channels_per_carrier="30" use_system_type_defaults="true" num_tces_enabled="1" percent_power_for_pilot_channel="20.0" percent_power_for_traffic_channel="75.0" percent_power_for_sync_channel="2.0" percent_power_for_paging_channel="3.0" handoff_initiate_threshold="-12.0" handoff_drop_threshold="-16.0" traffic_data_rate="1200.0" CDMA_PN_offset_index="1"/>
       <WiMAXChannels segment="1" id_cell="0" preamble_pn="0"/>
       <LTEChannels cell_id="0" cell_id_group="0"/>
       <MeasAnalysis data_file_name="" selected_sector="" meas_data_file_type="EDX" limit_by_distance="false" limit_by_azimuth="false" limit_by_boundary_file="false" limit_by_measurement="false" limit_by_avg_data="false" distance_min="0.1" distance_max="1000.0" azimuth_start="0.0" azimuth_end="0.0" measurement_min="0.0" measurement_max="0.0" average_data="1.0" boundary_file=""/>
@@ -168,7 +182,12 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="4">
+        <Neighbor sector="*ABAI0002"/>
+        <Neighbor sector="ABAF0001"/>
+        <Neighbor sector="ABAE0001"/>
+        <Neighbor sector="ABAS0002"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -217,7 +236,14 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="6">
+        <Neighbor sector="ABAJ0001"/>
+        <Neighbor sector="ABAW0001"/>
+        <Neighbor sector="ABAF0001"/>
+        <Neighbor sector="ABAN0002"/>
+        <Neighbor sector="ABAF0002"/>
+        <Neighbor sector="ABAJ0002"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -261,16 +287,16 @@
         <chan num="54"/>
        </ChannelSet>
        <ChannelSetExcluded assigned_channels="0"/>
-       <TrafficStatSet num_calc_channel="16">
+       <TrafficStatSet num_calc_channel="17">
         <Measured>
          <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
         </Measured>
         <Predicted>
-         <TrafficStat average_voice="7961.2661" average_data="7.9613" average_uplink_data="7.9613"/>
+         <TrafficStat average_voice="8762.1289" average_data="8.7621" average_uplink_data="8.7621"/>
         </Predicted>
        </TrafficStatSet>
       </Channel>
-      <CdmaChannels traffic_channels_per_carrier="16" use_system_type_defaults="true" num_tces_enabled="1" percent_power_for_pilot_channel="20.0" percent_power_for_traffic_channel="75.0" percent_power_for_sync_channel="2.0" percent_power_for_paging_channel="3.0" handoff_initiate_threshold="-12.0" handoff_drop_threshold="-16.0" traffic_data_rate="1200.0" CDMA_PN_offset_index="1"/>
+      <CdmaChannels traffic_channels_per_carrier="17" use_system_type_defaults="true" num_tces_enabled="1" percent_power_for_pilot_channel="20.0" percent_power_for_traffic_channel="75.0" percent_power_for_sync_channel="2.0" percent_power_for_paging_channel="3.0" handoff_initiate_threshold="-12.0" handoff_drop_threshold="-16.0" traffic_data_rate="1200.0" CDMA_PN_offset_index="1"/>
       <WiMAXChannels segment="0" id_cell="0" preamble_pn="0"/>
       <LTEChannels cell_id="0" cell_id_group="0"/>
       <MeasAnalysis data_file_name="" selected_sector="" meas_data_file_type="EDX" limit_by_distance="false" limit_by_azimuth="false" limit_by_boundary_file="false" limit_by_measurement="false" limit_by_avg_data="false" distance_min="0.1" distance_max="1000.0" azimuth_start="0.0" azimuth_end="0.0" measurement_min="0.0" measurement_max="0.0" average_data="1.0" boundary_file=""/>
@@ -280,7 +306,14 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="6">
+        <Neighbor sector="ABAI0001"/>
+        <Neighbor sector="ABAE0002"/>
+        <Neighbor sector="ABAC0001"/>
+        <Neighbor sector="*ABAS0002"/>
+        <Neighbor sector="ABAF0001"/>
+        <Neighbor sector="ABAI0002"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -328,7 +361,13 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="5">
+        <Neighbor sector="ABAC0003"/>
+        <Neighbor sector="ABAE0001"/>
+        <Neighbor sector="ABAC0001"/>
+        <Neighbor sector="*ABAT0002"/>
+        <Neighbor sector="*ABAI0001"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -373,16 +412,16 @@
         <chan num="109"/>
        </ChannelSet>
        <ChannelSetExcluded assigned_channels="0"/>
-       <TrafficStatSet num_calc_channel="30">
+       <TrafficStatSet num_calc_channel="31">
         <Measured>
          <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
         </Measured>
         <Predicted>
-         <TrafficStat average_voice="18169.5" average_data="18.1695" average_uplink_data="18.1695"/>
+         <TrafficStat average_voice="18838.4512" average_data="18.8385" average_uplink_data="18.8385"/>
         </Predicted>
        </TrafficStatSet>
       </Channel>
-      <CdmaChannels traffic_channels_per_carrier="30" use_system_type_defaults="true" num_tces_enabled="1" percent_power_for_pilot_channel="20.0" percent_power_for_traffic_channel="75.0" percent_power_for_sync_channel="2.0" percent_power_for_paging_channel="3.0" handoff_initiate_threshold="-12.0" handoff_drop_threshold="-16.0" traffic_data_rate="1200.0" CDMA_PN_offset_index="1"/>
+      <CdmaChannels traffic_channels_per_carrier="31" use_system_type_defaults="true" num_tces_enabled="1" percent_power_for_pilot_channel="20.0" percent_power_for_traffic_channel="75.0" percent_power_for_sync_channel="2.0" percent_power_for_paging_channel="3.0" handoff_initiate_threshold="-12.0" handoff_drop_threshold="-16.0" traffic_data_rate="1200.0" CDMA_PN_offset_index="1"/>
       <WiMAXChannels segment="2" id_cell="0" preamble_pn="0"/>
       <LTEChannels cell_id="0" cell_id_group="0"/>
       <MeasAnalysis data_file_name="" selected_sector="" meas_data_file_type="EDX" limit_by_distance="false" limit_by_azimuth="false" limit_by_boundary_file="false" limit_by_measurement="false" limit_by_avg_data="false" distance_min="0.1" distance_max="1000.0" azimuth_start="0.0" azimuth_end="0.0" measurement_min="0.0" measurement_max="0.0" average_data="1.0" boundary_file=""/>
@@ -392,7 +431,14 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="6">
+        <Neighbor sector="*ABAC0003"/>
+        <Neighbor sector="ABAE0002"/>
+        <Neighbor sector="ABAE0001"/>
+        <Neighbor sector="ABAF0001"/>
+        <Neighbor sector="*ABAI0001"/>
+        <Neighbor sector="*ABAS0002"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -429,7 +475,7 @@
          <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
         </Measured>
         <Predicted>
-         <TrafficStat average_voice="23495.1543" average_data="23.4952" average_uplink_data="23.4952"/>
+         <TrafficStat average_voice="23906.1348" average_data="23.9061" average_uplink_data="23.9061"/>
         </Predicted>
        </TrafficStatSet>
       </Channel>
@@ -443,7 +489,11 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="3">
+        <Neighbor sector="ABAC0003"/>
+        <Neighbor sector="ABAF0001"/>
+        <Neighbor sector="*ABAE0002"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -492,7 +542,15 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="7">
+        <Neighbor sector="ABAQ0001"/>
+        <Neighbor sector="ABAE0002"/>
+        <Neighbor sector="ABBE0001"/>
+        <Neighbor sector="ABAF0001"/>
+        <Neighbor sector="ABAT0002"/>
+        <Neighbor sector="*ABAD0003"/>
+        <Neighbor sector="ABAC0002"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -554,7 +612,13 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="5">
+        <Neighbor sector="ABAO0002"/>
+        <Neighbor sector="ABAP0002"/>
+        <Neighbor sector="ABAU0002"/>
+        <Neighbor sector="*ABAY0002"/>
+        <Neighbor sector="ABAH0001"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -601,7 +665,11 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="3">
+        <Neighbor sector="ABAO0001"/>
+        <Neighbor sector="ABAP0001"/>
+        <Neighbor sector="ABAP0002"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -662,7 +730,16 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="8">
+        <Neighbor sector="*ABAW0001"/>
+        <Neighbor sector="ABAY0003"/>
+        <Neighbor sector="ABAU0002"/>
+        <Neighbor sector="ABAX0001"/>
+        <Neighbor sector="ABAB0003"/>
+        <Neighbor sector="*ABAO0001"/>
+        <Neighbor sector="*ABAD0002"/>
+        <Neighbor sector="ABAH0002"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -723,7 +800,13 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="5">
+        <Neighbor sector="ABAU0002"/>
+        <Neighbor sector="ABAD0002"/>
+        <Neighbor sector="*ABBD0002"/>
+        <Neighbor sector="ABAP0001"/>
+        <Neighbor sector="ABAA0002"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -770,7 +853,17 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="9">
+        <Neighbor sector="ABAU0001"/>
+        <Neighbor sector="ABAV0001"/>
+        <Neighbor sector="ABAD0002"/>
+        <Neighbor sector="ABAY0003"/>
+        <Neighbor sector="*ABAW0001"/>
+        <Neighbor sector="ABAH0002"/>
+        <Neighbor sector="ABAO0001"/>
+        <Neighbor sector="ABAB0003"/>
+        <Neighbor sector="*ABAX0001"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -831,7 +924,11 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="3">
+        <Neighbor sector="ABAC0003"/>
+        <Neighbor sector="ABAQ0002"/>
+        <Neighbor sector="*ABAD0003"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -878,7 +975,12 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="4">
+        <Neighbor sector="ABAD0003"/>
+        <Neighbor sector="ABAA0002"/>
+        <Neighbor sector="ABAQ0001"/>
+        <Neighbor sector="*ABAC0003"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -939,7 +1041,12 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="4">
+        <Neighbor sector="ABBG0002"/>
+        <Neighbor sector="ABAL0001"/>
+        <Neighbor sector="ABBA0001"/>
+        <Neighbor sector="*ABAN0003"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1000,7 +1107,11 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="3">
+        <Neighbor sector="ABAS0002"/>
+        <Neighbor sector="ABAJ0002"/>
+        <Neighbor sector="ABAT0001"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1034,7 +1145,7 @@
          <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
         </Measured>
         <Predicted>
-         <TrafficStat average_voice="6818.5542" average_data="6.8186" average_uplink_data="6.8186"/>
+         <TrafficStat average_voice="6986.5352" average_data="6.9865" average_uplink_data="6.9865"/>
         </Predicted>
        </TrafficStatSet>
       </Channel>
@@ -1048,7 +1159,12 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="4">
+        <Neighbor sector="ABAS0001"/>
+        <Neighbor sector="ABAJ0002"/>
+        <Neighbor sector="ABAI0001"/>
+        <Neighbor sector="ABAF0001"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1109,7 +1225,10 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="2">
+        <Neighbor sector="ABBB0002"/>
+        <Neighbor sector="ABBC0001"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1156,7 +1275,11 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="3">
+        <Neighbor sector="ABBB0001"/>
+        <Neighbor sector="ABBC0002"/>
+        <Neighbor sector="*ABAO0001"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1217,7 +1340,13 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="5">
+        <Neighbor sector="ABAX0001"/>
+        <Neighbor sector="ABAW0001"/>
+        <Neighbor sector="ABAN0003"/>
+        <Neighbor sector="*ABAY0003"/>
+        <Neighbor sector="ABAI0002"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1278,7 +1407,11 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="3">
+        <Neighbor sector="ABAT0002"/>
+        <Neighbor sector="*ABAS0002"/>
+        <Neighbor sector="ABAS0001"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1312,7 +1445,7 @@
          <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
         </Measured>
         <Predicted>
-         <TrafficStat average_voice="3524.78" average_data="3.5248" average_uplink_data="3.5248"/>
+         <TrafficStat average_voice="3875.77" average_data="3.8758" average_uplink_data="3.8758"/>
         </Predicted>
        </TrafficStatSet>
       </Channel>
@@ -1326,7 +1459,11 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="3">
+        <Neighbor sector="ABAT0001"/>
+        <Neighbor sector="ABAC0003"/>
+        <Neighbor sector="*ABAQ0001"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1387,7 +1524,12 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="4">
+        <Neighbor sector="ABBD0002"/>
+        <Neighbor sector="ABAA0002"/>
+        <Neighbor sector="*ABAQ0002"/>
+        <Neighbor sector="ABAP0001"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1449,7 +1591,11 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="3">
+        <Neighbor sector="ABAI0002"/>
+        <Neighbor sector="ABBF0001"/>
+        <Neighbor sector="ABAJ0002"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1498,7 +1644,13 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="5">
+        <Neighbor sector="ABAJ0001"/>
+        <Neighbor sector="ABAS0001"/>
+        <Neighbor sector="ABAS0002"/>
+        <Neighbor sector="ABAI0002"/>
+        <Neighbor sector="*ABAY0003"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1559,7 +1711,11 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="3">
+        <Neighbor sector="ABBG0002"/>
+        <Neighbor sector="*ABAM0001"/>
+        <Neighbor sector="*ABAJ0001"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1606,7 +1762,11 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="3">
+        <Neighbor sector="ABBG0001"/>
+        <Neighbor sector="ABAL0001"/>
+        <Neighbor sector="ABAM0001"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1667,7 +1827,11 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="3">
+        <Neighbor sector="ABAM0001"/>
+        <Neighbor sector="*ABBG0001"/>
+        <Neighbor sector="ABBG0002"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1728,7 +1892,11 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="3">
+        <Neighbor sector="ABAY0003"/>
+        <Neighbor sector="ABAY0002"/>
+        <Neighbor sector="*ABAW0001"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1775,7 +1943,10 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="2">
+        <Neighbor sector="ABAY0001"/>
+        <Neighbor sector="ABAY0003"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1822,7 +1993,14 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="6">
+        <Neighbor sector="ABAY0002"/>
+        <Neighbor sector="ABAY0001"/>
+        <Neighbor sector="ABAX0001"/>
+        <Neighbor sector="ABAV0001"/>
+        <Neighbor sector="ABAW0001"/>
+        <Neighbor sector="ABAU0002"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1883,7 +2061,12 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="4">
+        <Neighbor sector="ABAJ0001"/>
+        <Neighbor sector="ABAI0002"/>
+        <Neighbor sector="*ABAN0002"/>
+        <Neighbor sector="*ABBG0001"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1933,7 +2116,7 @@
          <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
         </Measured>
         <Predicted>
-         <TrafficStat average_voice="17926.2793" average_data="17.9263" average_uplink_data="17.9263"/>
+         <TrafficStat average_voice="17956.2695" average_data="17.9563" average_uplink_data="17.9563"/>
         </Predicted>
        </TrafficStatSet>
       </Channel>
@@ -1947,7 +2130,14 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="6">
+        <Neighbor sector="ABAD0001"/>
+        <Neighbor sector="*ABAW0001"/>
+        <Neighbor sector="ABAB0002"/>
+        <Neighbor sector="*ABAZ0001"/>
+        <Neighbor sector="ABAF0002"/>
+        <Neighbor sector="ABAI0002"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1997,7 +2187,15 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="7">
+        <Neighbor sector="ABAD0002"/>
+        <Neighbor sector="ABAD0001"/>
+        <Neighbor sector="ABAB0001"/>
+        <Neighbor sector="*ABAU0002"/>
+        <Neighbor sector="ABAF0002"/>
+        <Neighbor sector="*ABAY0003"/>
+        <Neighbor sector="ABAI0002"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2044,7 +2242,14 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="6">
+        <Neighbor sector="ABAW0001"/>
+        <Neighbor sector="ABAU0002"/>
+        <Neighbor sector="*ABAD0002"/>
+        <Neighbor sector="*ABAY0003"/>
+        <Neighbor sector="*ABAB0001"/>
+        <Neighbor sector="ABAV0001"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2106,54 +2311,12 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
-      </Predicted_Neighbor_List>
-      <Actual_Neighbor_List>
-       <NeighborList number_entries="0"/>
-      </Actual_Neighbor_List>
-     </Tx>
-     <Tx frequency="960.0" adaptive_antenna="0" simulcast_delay_offset="0.0" override_most_likely_server_color="false" propagation_group="1" mimo_type_and_size="None" use_amod_table="false" amod_table_name="Global Table" has_repeater="false" repeater_owner="" rpt_interfere="0" rpt_gain="0.0" rpt_type="1">
-      <BaseTx tx_id="ABAD0003" UserSectorID="" guid="a6b24c8f-36e9-4fa8-a5f7-770738b7fb74" system="1" focus="false" most_likely_server_symbol="SOLID">
-       <most_likely_server_color>
-        <Color r="118" g="179" b="174"/>
-       </most_likely_server_color>
-       <StudySector start_azimuth="0.0" stop_azimuth="360.0" azimuth_increment="1.0" odd_azimuth="-1.0" study_radius="35.0" study_point_spacing="0.1" approximate_range="50.0"/>
-      </BaseTx>
-      <TransmitterAntenna>
-       <TxAntenna coax_cable_loss="1.0" coupling_loss="0.0" coupling_loss_spec_distance="0.0" coax_routing_name="">
-        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H83.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="7.0" min_transmit_power_per_channel="0.0" tx_rx_type="Cellular (850MHz) 20 watt" power_spectral_density_file_code="0" cross_polarization_rejection="15.0" antenna_type="" use_antenna_type="false" az_orient="270.0" beam_tilt="0.0" beam_tilt_az="270.0" rotate_antenna="false"/>
-       </TxAntenna>
-      </TransmitterAntenna>
-      <ReceiverAntenna>
-       <TxAntenna coax_cable_loss="1.0" coupling_loss="0.0" coupling_loss_spec_distance="0.0" coax_routing_name="">
-        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H83.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="13.0" min_transmit_power_per_channel="0.0" tx_rx_type="transmitter 1" power_spectral_density_file_code="0" cross_polarization_rejection="15.0" antenna_type="" use_antenna_type="false" az_orient="240.0" beam_tilt="0.0" beam_tilt_az="240.0" rotate_antenna="false"/>
-       </TxAntenna>
-      </ReceiverAntenna>
-      <Channel lock_status="unlocked" dvcc="1" bcc="1" ncc="1" dcch="1" lci="1" use_freq_hop="false" freq_hop_gain="3.0" gsm_diversity_gain_type="1" gsm_fixed_diversity_gain="3.0" gsm_db_per_freq_gain="3.0" gsm_fh_sequence_no="0" gsm_maio_offset="0" gsm_AMR_on="0" gsm_DTX_on="0" gsm_dtx_intrf_gain="3.0" number_of_assignable_downlink_channels="0" number_of_assignable_uplink_channels="0" sat="5970" dcc="1" band="L">
-       <ChannelSet assigned_channels="1">
-        <chan num="112"/>
-       </ChannelSet>
-       <ChannelSetExcluded assigned_channels="0"/>
-       <TrafficStatSet num_calc_channel="6">
-        <Measured>
-         <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
-        </Measured>
-        <Predicted>
-         <TrafficStat average_voice="1424.7" average_data="1.4247" average_uplink_data="1.4247"/>
-        </Predicted>
-       </TrafficStatSet>
-      </Channel>
-      <CdmaChannels traffic_channels_per_carrier="6" use_system_type_defaults="true" num_tces_enabled="1" percent_power_for_pilot_channel="20.0" percent_power_for_traffic_channel="75.0" percent_power_for_sync_channel="2.0" percent_power_for_paging_channel="3.0" handoff_initiate_threshold="-12.0" handoff_drop_threshold="-16.0" traffic_data_rate="1200.0" CDMA_PN_offset_index="1"/>
-      <WiMAXChannels segment="0" id_cell="0" preamble_pn="0"/>
-      <LTEChannels cell_id="0" cell_id_group="0"/>
-      <MeasAnalysis data_file_name="" selected_sector="" meas_data_file_type="EDX" limit_by_distance="false" limit_by_azimuth="false" limit_by_boundary_file="false" limit_by_measurement="false" limit_by_avg_data="false" distance_min="0.1" distance_max="1000.0" azimuth_start="0.0" azimuth_end="0.0" measurement_min="0.0" measurement_max="0.0" average_data="1.0" boundary_file=""/>
-      <Receiver adjacent_channel_rejection="25.0" use_diversity_receive_antenna="false" predicted_ul_ix="-160.0" measured_ul_ix="-160.0" override_ul_ix="false" use_TTA_multi="false">
-       <ReceiverBase required_service_CIN_ratio="13.0" system_noise_figure="5.0" eff_noise_bandwidth="0.2" filter_file_code="0" diversity_type="unprotected" effective_diversity_gain="5.0"/>
-       <AmplifierData use_TTA="false" use_multicoupler="false" TTA_gain="0.0" TTA_noise="0.0" MC_gain="0.0" MC_noise="0.0" BTS_noise="0.0"/>
-      </Receiver>
-      <OptimizationData cost="0.0"/>
-      <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="4">
+        <Neighbor sector="ABAB0002"/>
+        <Neighbor sector="ABAF0002"/>
+        <Neighbor sector="ABAB0001"/>
+        <Neighbor sector="ABAD0002"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2201,7 +2364,68 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
+       <NeighborList number_entries="6">
+        <Neighbor sector="ABAD0003"/>
+        <Neighbor sector="ABAB0002"/>
+        <Neighbor sector="*ABAQ0002"/>
+        <Neighbor sector="ABAU0001"/>
+        <Neighbor sector="ABAU0002"/>
+        <Neighbor sector="ABAD0001"/>
+       </NeighborList>
+      </Predicted_Neighbor_List>
+      <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
+      </Actual_Neighbor_List>
+     </Tx>
+     <Tx frequency="960.0" adaptive_antenna="0" simulcast_delay_offset="0.0" override_most_likely_server_color="false" propagation_group="1" mimo_type_and_size="None" use_amod_table="false" amod_table_name="Global Table" has_repeater="false" repeater_owner="" rpt_interfere="0" rpt_gain="0.0" rpt_type="1">
+      <BaseTx tx_id="ABAD0003" UserSectorID="" guid="a6b24c8f-36e9-4fa8-a5f7-770738b7fb74" system="1" focus="false" most_likely_server_symbol="SOLID">
+       <most_likely_server_color>
+        <Color r="118" g="179" b="174"/>
+       </most_likely_server_color>
+       <StudySector start_azimuth="0.0" stop_azimuth="360.0" azimuth_increment="1.0" odd_azimuth="-1.0" study_radius="35.0" study_point_spacing="0.1" approximate_range="50.0"/>
+      </BaseTx>
+      <TransmitterAntenna>
+       <TxAntenna coax_cable_loss="1.0" coupling_loss="0.0" coupling_loss_spec_distance="0.0" coax_routing_name="">
+        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H83.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="7.0" min_transmit_power_per_channel="0.0" tx_rx_type="Cellular (850MHz) 20 watt" power_spectral_density_file_code="0" cross_polarization_rejection="15.0" antenna_type="" use_antenna_type="false" az_orient="270.0" beam_tilt="0.0" beam_tilt_az="270.0" rotate_antenna="false"/>
+       </TxAntenna>
+      </TransmitterAntenna>
+      <ReceiverAntenna>
+       <TxAntenna coax_cable_loss="1.0" coupling_loss="0.0" coupling_loss_spec_distance="0.0" coax_routing_name="">
+        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H83.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="13.0" min_transmit_power_per_channel="0.0" tx_rx_type="transmitter 1" power_spectral_density_file_code="0" cross_polarization_rejection="15.0" antenna_type="" use_antenna_type="false" az_orient="240.0" beam_tilt="0.0" beam_tilt_az="240.0" rotate_antenna="false"/>
+       </TxAntenna>
+      </ReceiverAntenna>
+      <Channel lock_status="unlocked" dvcc="1" bcc="1" ncc="1" dcch="1" lci="1" use_freq_hop="false" freq_hop_gain="3.0" gsm_diversity_gain_type="1" gsm_fixed_diversity_gain="3.0" gsm_db_per_freq_gain="3.0" gsm_fh_sequence_no="0" gsm_maio_offset="0" gsm_AMR_on="0" gsm_DTX_on="0" gsm_dtx_intrf_gain="3.0" number_of_assignable_downlink_channels="0" number_of_assignable_uplink_channels="0" sat="5970" dcc="1" band="L">
+       <ChannelSet assigned_channels="1">
+        <chan num="112"/>
+       </ChannelSet>
+       <ChannelSetExcluded assigned_channels="0"/>
+       <TrafficStatSet num_calc_channel="6">
+        <Measured>
+         <TrafficStat average_voice="0.0" average_data="0.0" average_uplink_data="0.0"/>
+        </Measured>
+        <Predicted>
+         <TrafficStat average_voice="1424.7" average_data="1.4247" average_uplink_data="1.4247"/>
+        </Predicted>
+       </TrafficStatSet>
+      </Channel>
+      <CdmaChannels traffic_channels_per_carrier="6" use_system_type_defaults="true" num_tces_enabled="1" percent_power_for_pilot_channel="20.0" percent_power_for_traffic_channel="75.0" percent_power_for_sync_channel="2.0" percent_power_for_paging_channel="3.0" handoff_initiate_threshold="-12.0" handoff_drop_threshold="-16.0" traffic_data_rate="1200.0" CDMA_PN_offset_index="1"/>
+      <WiMAXChannels segment="0" id_cell="0" preamble_pn="0"/>
+      <LTEChannels cell_id="0" cell_id_group="0"/>
+      <MeasAnalysis data_file_name="" selected_sector="" meas_data_file_type="EDX" limit_by_distance="false" limit_by_azimuth="false" limit_by_boundary_file="false" limit_by_measurement="false" limit_by_avg_data="false" distance_min="0.1" distance_max="1000.0" azimuth_start="0.0" azimuth_end="0.0" measurement_min="0.0" measurement_max="0.0" average_data="1.0" boundary_file=""/>
+      <Receiver adjacent_channel_rejection="25.0" use_diversity_receive_antenna="false" predicted_ul_ix="-160.0" measured_ul_ix="-160.0" override_ul_ix="false" use_TTA_multi="false">
+       <ReceiverBase required_service_CIN_ratio="13.0" system_noise_figure="5.0" eff_noise_bandwidth="0.2" filter_file_code="0" diversity_type="unprotected" effective_diversity_gain="5.0"/>
+       <AmplifierData use_TTA="false" use_multicoupler="false" TTA_gain="0.0" TTA_noise="0.0" MC_gain="0.0" MC_noise="0.0" BTS_noise="0.0"/>
+      </Receiver>
+      <OptimizationData cost="0.0"/>
+      <Predicted_Neighbor_List>
+       <NeighborList number_entries="6">
+        <Neighbor sector="ABAQ0002"/>
+        <Neighbor sector="ABAF0002"/>
+        <Neighbor sector="ABAD0002"/>
+        <Neighbor sector="ABAA0002"/>
+        <Neighbor sector="ABBE0001"/>
+        <Neighbor sector="*ABAU0001"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2262,7 +2486,14 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="6">
+        <Neighbor sector="ABAY0003"/>
+        <Neighbor sector="ABAW0001"/>
+        <Neighbor sector="ABAZ0001"/>
+        <Neighbor sector="ABAV0001"/>
+        <Neighbor sector="ABAN0003"/>
+        <Neighbor sector="ABAI0002"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2323,7 +2554,10 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="2">
+        <Neighbor sector="ABAA0002"/>
+        <Neighbor sector="ABAR0001"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2385,7 +2619,14 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="6">
+        <Neighbor sector="ABAP0002"/>
+        <Neighbor sector="ABAR0001"/>
+        <Neighbor sector="ABAO0002"/>
+        <Neighbor sector="ABAA0002"/>
+        <Neighbor sector="*ABBD0002"/>
+        <Neighbor sector="ABAU0001"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2432,7 +2673,11 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="3">
+        <Neighbor sector="ABAP0001"/>
+        <Neighbor sector="ABAO0002"/>
+        <Neighbor sector="ABAO0001"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2493,7 +2738,13 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="5">
+        <Neighbor sector="ABAW0001"/>
+        <Neighbor sector="ABAN0003"/>
+        <Neighbor sector="*ABAY0003"/>
+        <Neighbor sector="ABAI0002"/>
+        <Neighbor sector="*ABAX0001"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2540,7 +2791,13 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="5">
+        <Neighbor sector="ABAN0002"/>
+        <Neighbor sector="ABAW0001"/>
+        <Neighbor sector="ABAI0002"/>
+        <Neighbor sector="ABAZ0001"/>
+        <Neighbor sector="ABAX0001"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2601,7 +2858,12 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="4">
+        <Neighbor sector="ABBA0002"/>
+        <Neighbor sector="*ABAJ0001"/>
+        <Neighbor sector="ABAM0001"/>
+        <Neighbor sector="ABAI0002"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2649,7 +2911,12 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="4">
+        <Neighbor sector="ABBA0001"/>
+        <Neighbor sector="*ABAJ0001"/>
+        <Neighbor sector="ABAI0002"/>
+        <Neighbor sector="*ABBF0001"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2712,7 +2979,13 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="5">
+        <Neighbor sector="ABAH0001"/>
+        <Neighbor sector="ABBC0001"/>
+        <Neighbor sector="ABAG0001"/>
+        <Neighbor sector="*ABAO0001"/>
+        <Neighbor sector="*ABAH0002"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2774,7 +3047,14 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="6">
+        <Neighbor sector="ABAH0001"/>
+        <Neighbor sector="*ABBB0001"/>
+        <Neighbor sector="ABBC0001"/>
+        <Neighbor sector="*ABAO0001"/>
+        <Neighbor sector="ABAK0001"/>
+        <Neighbor sector="ABAH0002"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2836,7 +3116,16 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="8">
+        <Neighbor sector="ABAK0001"/>
+        <Neighbor sector="ABAG0001"/>
+        <Neighbor sector="ABAO0001"/>
+        <Neighbor sector="ABAH0002"/>
+        <Neighbor sector="*ABAY0002"/>
+        <Neighbor sector="*ABBB0002"/>
+        <Neighbor sector="*ABBC0001"/>
+        <Neighbor sector="*ABBB0001"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2883,7 +3172,14 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="6">
+        <Neighbor sector="ABAH0001"/>
+        <Neighbor sector="ABAV0001"/>
+        <Neighbor sector="ABAU0002"/>
+        <Neighbor sector="ABAG0001"/>
+        <Neighbor sector="*ABAY0003"/>
+        <Neighbor sector="*ABBC0001"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2944,7 +3240,13 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="5">
+        <Neighbor sector="ABAD0003"/>
+        <Neighbor sector="ABAC0003"/>
+        <Neighbor sector="ABAF0001"/>
+        <Neighbor sector="*ABAQ0001"/>
+        <Neighbor sector="*ABAQ0002"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -3006,7 +3308,15 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="7">
+        <Neighbor sector="ABBD0002"/>
+        <Neighbor sector="ABAP0001"/>
+        <Neighbor sector="ABAQ0002"/>
+        <Neighbor sector="ABAD0003"/>
+        <Neighbor sector="ABAR0001"/>
+        <Neighbor sector="*ABAD0002"/>
+        <Neighbor sector="ABAU0001"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -3067,7 +3377,14 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="6">
+        <Neighbor sector="ABBC0002"/>
+        <Neighbor sector="ABBB0001"/>
+        <Neighbor sector="*ABAO0001"/>
+        <Neighbor sector="ABAK0001"/>
+        <Neighbor sector="ABAG0001"/>
+        <Neighbor sector="*ABBB0002"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -3114,7 +3431,10 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="2">
+        <Neighbor sector="ABBC0001"/>
+        <Neighbor sector="ABBB0002"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -3176,7 +3496,15 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="7">
+        <Neighbor sector="ABAX0001"/>
+        <Neighbor sector="ABAI0002"/>
+        <Neighbor sector="ABAZ0001"/>
+        <Neighbor sector="ABAB0003"/>
+        <Neighbor sector="ABAN0003"/>
+        <Neighbor sector="ABAY0003"/>
+        <Neighbor sector="ABAN0002"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>

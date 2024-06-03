@@ -2,8 +2,8 @@
 <ViewFile Version="8.4.0">
  <Print paper_size="1" default_source="7" orientation="2" left_margin="500" right_margin="500" top_margin="750" bottom_margin="500" driver="winspool" device="hp deskjet 970c series" output="lpt1:"/>
  <Views size="1" last_active="0">
-  <View name="initial view" top="-23" left="-4" width="1591" height="940" show="true" maximized="true">
-   <ProjectedCoordinateSystem map_center_latitude="44.51518101881886" map_center_longitude="-122.8692162977581" data_entry_display_type="lat/long: deg/min/sec" projected_coordinate_system="Latitude/Longitude" projection="Transverse Mercator" datum="WGS 84"/>
+  <View name="initial view" top="-23" left="-4" width="1391" height="989" show="true" maximized="true">
+   <ProjectedCoordinateSystem map_center_latitude="44.55892429016451" map_center_longitude="-122.8140435289147" data_entry_display_type="lat/long: deg/min/sec" projected_coordinate_system="Latitude/Longitude" projection="Transverse Mercator" datum="WGS 84"/>
    <MapTitle title="EDX Wireless" subtitle="Smart Planning for Smart Networks" date="" exhibit="" use_cur_date="false"/>
    <RefGrid reference="grid lines" spacing="30&apos;" show_annotations="true">
     <PenDesc>
@@ -68,7 +68,7 @@
     <note text=""/>
     <note text=""/>
    </LegendOptions>
-   <MapPref measurement_system="Metric" origin="lower left corner" MapScale="1:188902" view_elevation_angle="90.0" view_azimuth="180.0" vert_scale_mult="1.0" base_height="0.0" light_elevation_angle="20.0" light_azimuth="315.0" use_directional_light="false" cursor_height="0.0" show_legend="false" power_display_units="dBW" antenna_gain_type="dBi" align_map_center_with_study_grid="false" display_as_2D="true">
+   <MapPref measurement_system="Metric" origin="lower left corner" MapScale="1:189344" view_elevation_angle="90.0" view_azimuth="180.0" vert_scale_mult="1.0" base_height="0.0" light_elevation_angle="20.0" light_azimuth="315.0" use_directional_light="false" cursor_height="0.0" show_legend="false" power_display_units="dBW" antenna_gain_type="dBi" align_map_center_with_study_grid="false" display_as_2D="true">
     <BorderPenDesc>
      <PenDesc width="0.7" style="solid">
       <Color r="0" g="0" b="0"/>
@@ -302,9 +302,9 @@
        <Annotation desc=""/>
        <Annotation desc=""/>
        <ColorMap size="6">
-        <ColorMapEntry val="0.7" r="80" g="80" b="80" symbol="SOLID"/>
-        <ColorMapEntry val="0.6" r="112" g="112" b="112" symbol="SOLID"/>
-        <ColorMapEntry val="0.5" r="144" g="144" b="144" symbol="SOLID"/>
+        <ColorMapEntry val="0.6" r="80" g="80" b="80" symbol="SOLID"/>
+        <ColorMapEntry val="0.5" r="112" g="112" b="112" symbol="SOLID"/>
+        <ColorMapEntry val="0.4" r="144" g="144" b="144" symbol="SOLID"/>
         <ColorMapEntry val="0.3" r="176" g="176" b="176" symbol="SOLID"/>
         <ColorMapEntry val="0.2" r="208" g="208" b="208" symbol="SOLID"/>
         <ColorMapEntry val="0.2" r="240" g="240" b="240" symbol="SOLID"/>
@@ -746,7 +746,7 @@
     </DemographicGrid>
     <TrafficGrid plot_type="flat grid" contour_line_width="0.3">
      <traffic_flat_grid_colors>
-      <ColorMapIndex index="11"/>
+      <ColorMapIndex index="10"/>
      </traffic_flat_grid_colors>
      <traffic_contour_colors>
       <ColorMapIndex index="0"/>
@@ -913,7 +913,7 @@
      </MapLayer>
     </MapLayerTypeAndLayer>
     <MapLayerTypeAndLayer layer_type="route signal levels: 1">
-     <MapLayer description="Received power at best base from remote" show="false" show_on_legend="true" min_scale="1e-005" max_scale="2500.0" alpha="100">
+     <MapLayer description="Received power at best base from remote" show="true" show_on_legend="true" min_scale="1e-005" max_scale="2500.0" alpha="100">
       <MaplayerInfo area_study_index="1" line_width="1.5" use_symbol="false">
        <route_study_symbol>
         <Symbol shape="35" point_size="15">
@@ -946,7 +946,7 @@
      </MapLayer>
     </MapLayerTypeAndLayer>
     <MapLayerTypeAndLayer layer_type="signal levels: 1">
-     <MapLayer description="Received power at best base from remote" show="true" show_on_legend="false" min_scale="1e-005" max_scale="2500.0" alpha="100">
+     <MapLayer description="Received power at best base from remote" show="false" show_on_legend="false" min_scale="1e-005" max_scale="2500.0" alpha="100">
       <MaplayerInfo area_study_index="1"/>
      </MapLayer>
     </MapLayerTypeAndLayer>

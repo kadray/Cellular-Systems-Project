@@ -406,7 +406,7 @@
  <GraphicObjectList number="1">
   <GraphicObject graphic_type="7">
    <RectangleObject is_rounded="false">
-    <GraphicalObject Id="" IndexForLabel="422998752" width="0.0">
+    <GraphicalObject Id="" IndexForLabel="946504960" width="0.0">
      <Color r="0" g="0" b="0"/>
      <LatLongTypeList number="2">
       <LatLongPair latitude="44.77097175666016" longitude="-123.2138604072337"/>
@@ -2432,7 +2432,7 @@
   <snapStuff candidateFile="" max_collector_candidates="100" snap_to_radius="1.0" use_snap_to="false" use_un_snapped="false" use_street_snap="false" use_intersection_snap="false"/>
   <AutoPlacement new_tx_group_="" selected_tx_group="" max_router_range_km="2.0" threshold_="-130.0" required_coverage_percent="98.59999999999999" max_collector_candidates="100" max_orphan_size_="10" selected_template="0" max_meters_per_router_="100" use_tx_group="false" use_powa="false"/>
  </MultipointStudyLayout>
- <NeighborListGeneration max_neighbors="4" include_2nd_servers="true" include_3rd_servers="true" exclude_co_channel_neighbors="true" group_identifier="master group" server_selection="PowerReceived" copy_predicted_to_actual="false" remote_unit_ID="0"/>
+ <NeighborListGeneration max_neighbors="4" include_2nd_servers="true" include_3rd_servers="true" exclude_co_channel_neighbors="true" group_identifier="Master group" server_selection="PowerReceived" copy_predicted_to_actual="false" remote_unit_ID="0"/>
  <TxGroups size="1">
   <TxGroup name="Master group" guid="a07b661e-f7c1-4c14-ae37-116aeebd111e" description="All sites and sectors" receiver_locked="false" number="57">
    <TX_ID id="ABAA0002" active="true"/>
