@@ -33,11 +33,6 @@
          0.0 sq km in service area
   
   
- SECTOR ABAE0003
-  
-         0.0 sq km in service area
-  
-  
  SECTOR ABAC0001
   
          0.0 sq km in service area
